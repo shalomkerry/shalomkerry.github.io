@@ -47,7 +47,7 @@ Those same position will come up again. If you grow your experience of knowing t
 Giving your queen for free, missing mate in one, and blundering a fork are inevitable when you start out. Has happened to me a bunch of times. Most of the time I wait the game out and a bunch of times I have seen my opponent blunder to give me a winning advantage. Look at this game I played a while back.
 
 <video width="640" height="360" controls>
-  <source src="{{ site.baseurl }}/images/Chess-Blog/dont-resign.mp4" type="video/mp4">
+  <source src="{{ site.baseurl }}/images/Chess-Blog/dont-resign.MP4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 {{ '<video width="640" height="360" controls>
