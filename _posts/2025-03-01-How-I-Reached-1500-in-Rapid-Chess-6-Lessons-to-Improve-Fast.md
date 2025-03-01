@@ -23,6 +23,7 @@ That is the first lesson.
 
 
 ![(Chess-rating after the first month). ]({{site.baseurl}}/images/Chess-Blog/opening.jpg)
+<i>From Levi's <a href='https://www.amazon.com/How-Win-Chess-Ultimate-Beginners/dp/1984862073'>How to Win at Chess</a></i>
 
 I continued playing.I had my ups and downs and even got to 1406. But I kinda went on a losing spree and lost 300elo to go down to 1000. I attribute this to playing like I had all the time in the world and playing with for lack of a better English word to express this: በህልህ. 
 Which is the second lesson.
