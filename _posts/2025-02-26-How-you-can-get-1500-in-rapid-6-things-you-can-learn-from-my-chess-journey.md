@@ -2,7 +2,7 @@ I've been playing chess on Chess.com for over two years—on and off, that is.
 I created my account on September 6 2022 (wow that is a long time ago. ) I  started with rapid. Its a very beginner friendly time format which gave me time to think before making my moves.I have stuck with it ever since. 
 
 When I started on Chess.com i already knew how to play chess. The moves, how to checkmate with simple patterns like ladder mate and basic stuff like that.
-I learned it from Dr Wolf who are kindly sponsoring this blog (jk not yet). After playing with Dr wolf for sometime i stopped playing but started again after encountering this funny guy who is known for shouting "The Rook".
+I learned it from [Dr Wolf](https://www.learnchesswithdrwolf.com/) who are kindly sponsoring this blog (jk not yet). After playing with Dr wolf for sometime i stopped playing but started again after encountering this funny guy who is known for shouting "The Rook".
 
  His reviews of the games made me want to play again and this time on a platform like Chess.com.  In this blog I will share my journey all the mistakes, and good things you can learn from me to help you reach to 1500 and beyond. 
 
