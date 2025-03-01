@@ -6,7 +6,7 @@ I learned it from [Dr Wolf](https://www.learnchesswithdrwolf.com/) who are kindl
 
  His reviews of the games made me want to play again and this time on a platform like Chess.com.  In this blog I will share my journey all the mistakes, and good things you can learn from me to help you reach to 1500 and beyond. 
 
-If you don't have the time to read through the whole thing tho (*inwardly judging your attention span) am basically saying Learn at least one or two openings, don't play like you have to prove something, review the games you played, don't you dare resign even you are down a queen, touch real pieces sometimes and be okay with being beaten.  
+If you don't have the time to read through the whole thing tho (*inwardly judging your attention span) am basically saying Learn at least one or two openings, don't play like you have to prove something, review the games you played, don't you dare resign even if you are down a queen, touch real pieces sometimes and be okay with being beaten.  
 
 Okay now let me tell you how I learned those things.
 At some points I could say I was addicted to the game and it is the ego stroking you feel after defeating people that does that. I played a lot of games and quickly ranked up my elo and got to 1300 in just 3 month. 
@@ -51,7 +51,7 @@ Those same position will come up again. If you grow your experience of knowing t
 
 Giving your queen for free, missing mate in one, and blundering a fork are inevitable when you start out. Has happened to me a bunch of times. Most of the time I wait the game out and a bunch of times I have seen my opponent blunder to give me a winning advantage. Look at this game I played a while back.
 
-<video width="640" height="360" controls>
+<video width="auto" height="360" controls>
   <source src="{{ site.baseurl }}/images/Chess-Blog/dont-resign.MP4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -90,4 +90,4 @@ And one final thing for my people on chess.com.
 </div>
 People who have the default bland green board theme on, what the hell are you guys doing? Don't you guys have any taste or is it because you don't know that you can change it to many nice themes? Go to settings→themes and pick one. I recommend Glass since its objectively the best one. 
 
-Thanks for reading. I will see you on the next one.
+Thanks for reading.
