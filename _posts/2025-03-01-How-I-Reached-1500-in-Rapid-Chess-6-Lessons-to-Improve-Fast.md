@@ -32,13 +32,13 @@ Which is the second lesson.
 
 The ego stroking thing can be addicting but their comes a time where your pride gets hurt when you start losing so many games. You start to blunder very easily and your opponents capitalize on you, you try to make up for that with the next game but instead of helping yourself you are now just donating your elo. This happens when you play በህልህ፡፡
 
- Emotional play leads to bad decisions, and trust me, I learned this the hard way. You will probably lose more games if you keep playing while tilted. If I can return back I would shout to myself "Know when to stop playing. Don't make it worse."
+ Emotional play leads to bad decisions, and trust me, I learned this the hard way. You will probably lose more games if you keep playing while tilted. If I can return back in time I would shout to myself "Know when to stop playing. Don't make it worse."
 
  Chess after all is a mind game and you will get tired and the mistakes and the blunders will come if you don't rest in between games. I failed with this so I had to be humbled to understand this. You need to treat your elo as a precious thing which it is. It is your time and energy. When you play በእልህ you most probably won't play as good as the person you are playing next after losing 15 games in a row which for him might be his first game of the day.
 
- Don't get me wrong you can also grow by playing like this it has happened to me where I played and increased my elo dramatically in just a day but that is not a great plan for the long term.
+ Don't get me wrong you can also grow by playing like this.It has happened to me where I played and increased my elo dramatically in just a day but that is not a great plan for the long term.
 
- What I did to help me not play like that which I applied just recently is limit the number of games I am allowed to play on a daily basis to 3. To be accountable with that I challenged myself to do that till I reach 1500 and posted my progress in my channel. This saved me from losing my elo and also I started a good new habit of reviewing my games. 
+ What I did to help me not play like that which I applied just recently is limit the number of games I am allowed to play on a daily basis to 3. To be accountable with that I challenged myself to do that till I reached 1500 and posted my progress in my channel. This saved me from losing my elo and also I started a good new habit of reviewing my games. 
 
 ## 3.Review games 
 
@@ -82,7 +82,7 @@ Its part of the process.  When you lose it hurts so when you play next time you 
 
 So try to play with older gentleman or higher rated player than you.This going hand to hand with reviewing and resting in between games will help you rank up. 
 
-That's just it keep on playing and before you know it you will get there. That is what happened to me when I reached 1500 on February 13/2025.
+That's just it keep on playing and before you know it you will get there. That is what happened to me when I reached 1500 on February 23/2025.
 Going forward I want to do puzzles regularly, learn a bit of tactics, and study by reading or watching a video. I would appreciate any advice or recommendation. You can join the gang in my channel [t.me/kershalom.](t.me/kershalom.) 
 And one final thing for my people on chess.com.
 
