@@ -68,7 +68,7 @@ So even if all seems lost don't resign just yet.
   <img src="{{ site.baseurl }}/images/Chess-Blog/instagram.jpg" alt="Instagram picture" width="50%">
   <img src="{{ site.baseurl }}/images/Chess-Blog/reality.jpg" alt="Reality picture" width="60%">
 </div>
-<i>Instagram vs Reality (this is my first and only and as you can see I haven't treated it well)<i/>
+<i>Instagram vs Reality (this is my first and only board and as you can see I haven't treated it well)<i/>
 
 It might not be easy getting your hands on one but if you can its really a great experience. There is quite a gentleman feeling you get to experience starting the game by shaking hands and even more so shaking those same hands after defeating your opponent. 
 
@@ -89,6 +89,6 @@ And one final thing for my people on chess.com.
   <img src="{{ site.baseurl }}/images/Chess-Blog/theme.jpg" alt="Instagram picture" width="50%">
   <img src="{{ site.baseurl }}/images/Chess-Blog/glass.jpg" alt="Reality picture" width="60%">
 </div>
-People who have the default bland green board theme on, what the hell are you guys doing? Don't you guys have any taste or is it because you don't know that you can change it to many nice themes? Go to settings→themes and pick one. I recommend Glass since its objectively the best one. 
+People who have the default bland green board theme on, what the hell are you guys doing? Don't you guys have any taste or is it because you don't know that you can change it to many nice themes?  Go to settings→themes and pick one. I recommend Glass since its objectively the best one.
 
 Thanks for reading.
