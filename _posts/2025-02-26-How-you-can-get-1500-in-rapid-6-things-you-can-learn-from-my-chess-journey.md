@@ -83,20 +83,12 @@ So try to play with older gentleman or higher rated player than you.This going h
 That's just it keep on playing and before you know it you will get there. That is what happened to me when I reached 1500 on February 13/2025.
 Going forward I want to do puzzles regularly, learn a bit of tactics, and study by reading or watching a video. I would appreciate any advice or recommendation. You can join the gang in my channel t.me/kershalom.
  
-Before I finish two final things for my people on chess.com
-<br/>
-![Funny GIF]({{ site.baseurl }}/images/Chess-Blog/seeksquare@3x.gif)
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="{{ site.baseurl }}/images/Chess-Blog/chessGif.png" alt="Reality picture" width="60%">
-  <img src="{{ site.baseurl }}/images/Chess-Blog/prankGuy.jpg" alt="Instagram picture" width="50%">
-</div>
-This is one is a discovery I made. You probably have seen this gif while you are waiting for a game to load. Among these friendly faces one face seemed familiar and I have a conjecture that its the guy that pranks people in this show. 
+And one final thing for my people on chess.com.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="{{ site.baseurl }}/images/Chess-Blog/theme.jpg" alt="Instagram picture" width="50%">
   <img src="{{ site.baseurl }}/images/Chess-Blog/glass.jpg" alt="Reality picture" width="60%">
 </div>
-And last thing:- for people who have the default bland green board theme on, what the hell are you guys doing? Don't you guys have any taste or is it because you don't know you can change it to many nice themes by going to settings→themes. I recommend Glass since its objectively the best one. 
+People who have the default bland green board theme on, what the hell are you guys doing? Don't you guys have any taste or is it because you don't know that you can change it to many nice themes? Go to settings→themes and pick one. I recommend Glass since its objectively the best one. 
 
-Thanks for reading this far. I will see you on the next one.
+Thanks for reading. I will see you on the next one.
