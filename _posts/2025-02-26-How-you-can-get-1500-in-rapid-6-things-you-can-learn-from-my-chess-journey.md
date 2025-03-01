@@ -92,5 +92,9 @@ Before I finish two final things for my people on chess.com
 </div>
 This is one is a discovery I made. You probably have seen this gif while you are waiting for a game to load. Among these friendly faces one face seemed familiar and I learned that it was this guy who made these pranks. I am just proud for noticing it. (Now you know)
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="{{ site.baseurl }}/images/Chess-Blog/theme.jpg" alt="Instagram picture" width="50%">
+  <img src="{{ site.baseurl }}/images/Chess-Blog/glass.jpg" alt="Reality picture" width="60%">
+</div>
 And last thing:- for people who have the default bland green board theme on what the hell are you guys doing? Don't you guys have any taste or is it because you don't know you can change it to many nice themes by going to settings→themes. I recommend Glass since its objectively the best one. 
 Thanks for reading share this to a friend is addicted to chess. Lets be friends on chess.com. Would love to play with y'all. I will see you on the next one.
