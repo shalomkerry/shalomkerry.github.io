@@ -76,7 +76,7 @@ And if you can't do that try to make your online experience as close as you can 
 I got the chance to participate in a chess tournament recently and it feels quite different. From writing chess notations, slapping the fide time control and meeting and playing different chess players its all quite nice. I learned that keeping calm and collected is the real battle. I was nervous in some games and even though I had plenty time I rushed myself to blunder stalemate in one game and lose another one by giving not calculating enough.
 The last lesson I would add is be okay with losing.
 
-## 6. Play with higher rated players than you and be okay with losing
+## 6. Play with higher rated players and be okay with losing
 Its part of the process.  When you lose it hurts so when you play next time you will try not to get hurt by doing the same mistakes and thus play a better move.  A friend I made in that tournament i participated in said this 'If you play with high rated players to obliterate you then playing with your equals won't be as tough.'  Indeed if you want to see improvement you must get accustomed with being challenged. What better way then being wooped by a person that is better than you.
 
 So try to play with older gentleman or higher rated player than you.This going hand to hand with reviewing and resting in between games will help you rank up. 
