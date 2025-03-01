@@ -13,7 +13,7 @@ At some points I could say I was addicted to the game and it is the ego stroking
 
 ![(Chess-rating after the first month). ]({{site.baseurl}}/images/Chess-Blog/threemonth.jpg)
 
-That is why I quickly ranked up my elo and got to 1300 in just 3 month. (I didn't start as a totall nooby so this growth kind of make sense). 
+That is why I quickly ranked up my elo and got to 1300 in just 3 month. (I didn't start as a total nooby so this growth kind of make sense). 
 
 One of the things that helped me was knowing one good opening for both white and black. I learned  the stone wall defense which I basically always played with and the caro-kann for black. Gotham Chess in his 10 minute openings taught me those openings and I have stuck with them ever since.
 
