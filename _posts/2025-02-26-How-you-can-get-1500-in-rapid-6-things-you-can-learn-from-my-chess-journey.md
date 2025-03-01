@@ -42,7 +42,7 @@ The ego stroking thing can be addicting but their comes a time where your pride 
 ## 3.Review games 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="{{ site.baseurl }}/images/Chess-Blog/review.jpg" alt="Instagram picture" width="50%">
+  <img src="{{ site.baseurl }}/images/Chess-Blog/review.png" alt="Instagram picture" width="50%">
   <img src="{{ site.baseurl }}/images/Chess-Blog/self-analysis.png" alt="Reality picture" width="60%">
 </div>
  You won't do this when you just start out often but I wish did. Chess.com gives one free review per day on the free one. Use that everyday. Learn from your mistakes. Even if you can't do that kind of review (only one is allowed per day without premium subscription) go to self explore and learn what you could have done better by seeing the eval bar. 
