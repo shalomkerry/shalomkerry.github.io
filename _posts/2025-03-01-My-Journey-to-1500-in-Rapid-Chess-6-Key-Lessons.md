@@ -62,7 +62,7 @@ The beauty of being in the beginner to intermediate level of chess is both me an
 His biggest mistake I would say is quickness to resign. For the track record of both of us blundering he shouldn't have thought I would play a perfect game in the remaining moves. Your opponent will make mistakes so even if you don't have a winning advantage at the very least you could get a draw. There is always a chance for that for things to turn around. 
 So even if all seems lost don't resign just yet.
 
-## 5.Play Over the Board as well
+## 5.Play Over the Board sometimes
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="{{ site.baseurl }}/images/Chess-Blog/instagram.jpg" alt="Instagram picture" width="50%">
@@ -75,6 +75,7 @@ It might not be easy getting your hands on one but if you can its really a great
 And if you can't do that try to make your online experience as close as you can to the real one. You won't get to see lines when you play on the board so its a good to remove them. 
 I got the chance to participate in a chess tournament recently and it feels quite different. From writing chess notations, slapping the fide time control and meeting and playing different chess players its all quite nice. I learned that keeping calm and collected is the real battle. I was nervous in some games and even though I had plenty time I rushed myself to blunder stalemate in one game and lose another one by giving not calculating enough.
 The last lesson I would add is be okay with losing.
+
 ## 6. Play with higher players higher than you and be okay with losing
 Its part of the process.  When you lose it hurts so when you play next time you will try not to get hurt by doing the same mistakes and thus play a better move.  A friend I made in that tournament i participated in said this 'If you play with high rated players to obliterate you then playing with your equals won't be as tough.'  Indeed if you want to see improvement you must get accustomed with being challenged. What better way then being wooped by a person that is better than you.
 
