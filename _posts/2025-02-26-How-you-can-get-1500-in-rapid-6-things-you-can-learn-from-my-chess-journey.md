@@ -88,10 +88,10 @@ Before I finish two final things for my people on chess.com
 ![Funny GIF]({{ site.baseurl }}/images/Chess-Blog/seeksquare@3x.gif)
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="{{ site.baseurl }}/images/Chess-Blog/prankGuy.jpg" alt="Instagram picture" width="50%">
   <img src="{{ site.baseurl }}/images/Chess-Blog/chessGif.png" alt="Reality picture" width="60%">
+  <img src="{{ site.baseurl }}/images/Chess-Blog/prankGuy.jpg" alt="Instagram picture" width="50%">
 </div>
-This is one is a discovery I made. You probably have seen this gif while you are waiting for a game to load. Among these friendly faces one face seemed familiar and I learned that it was this guy who made these pranks. I am just proud for noticing it. (Now you know)
+This is one is a discovery I made. You probably have seen this gif while you are waiting for a game to load. Among these friendly faces one face seemed familiar and I have a conjecture that its the guy that pranks people in this show. 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="{{ site.baseurl }}/images/Chess-Blog/theme.jpg" alt="Instagram picture" width="50%">
