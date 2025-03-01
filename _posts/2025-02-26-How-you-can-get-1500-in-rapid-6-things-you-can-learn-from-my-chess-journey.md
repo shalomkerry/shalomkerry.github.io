@@ -39,7 +39,8 @@ The ego stroking thing can be addicting but their comes a time where your pride 
 
  What I did to help me not play like that which I applied just recently is limit the number of games I am allowed to play on a daily basis to 3. To be accountable with that I challenged myself to do that till I reach 1500 and posted my progress in my channel. This saved me from losing my elo and also I started a good new habit of reviewing my games. 
 
- ## 3.Review games 
+## 3.Review games 
+
  You won't do this when you just start out often but I wish did. Chess.com gives one free review per day on the free one. Use that everyday. Learn from your mistakes. Even if you can't do that kind of review (only one is allowed per day without premium subscription) go to self explore and learn what you could have done better by seeing the eval bar. 
 
 Those same position will come up again. If you grow your experience of knowing them you will make the right moves on the next games. Go to the point where you messed up, play with the computer and see how you could have done it better . It looks like a hustle when you just want to play the next player but if you are thinking about long term growth its not an option. You must learn from the games you play. 
@@ -63,7 +64,7 @@ So even if all seems lost don't resign just yet.
   <img src="{{ site.baseurl }}/images/Chess-Blog/instagram.jpg" alt="Instagram picture" width="50%">
   <img src="{{ site.baseurl }}/images/Chess-Blog/reality.jpg" alt="Reality picture" width="60%">
 </div>
-__Instagram vs Reality (this is my first and only board that i got and you can see I haven't treated it well)
+<i>Instagram vs Reality (this is my first and only board that i got and you can see I haven't treated it well)<i/>
 
 It might not be easy getting your hands on one but if you can its really a great experience. There is quite a gentleman feeling you get to experience starting the game by shaking hands and even more so shaking those same hands after defeating your opponent. 
 
