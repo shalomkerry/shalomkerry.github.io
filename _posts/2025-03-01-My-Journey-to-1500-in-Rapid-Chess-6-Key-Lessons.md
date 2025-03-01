@@ -81,8 +81,7 @@ Its part of the process.  When you lose it hurts so when you play next time you 
 So try to play with older gentleman or higher rated player than you.This going hand to hand with reviewing and resting in between games will help you rank up. 
 
 That's just it keep on playing and before you know it you will get there. That is what happened to me when I reached 1500 on February 13/2025.
-Going forward I want to do puzzles regularly, learn a bit of tactics, and study by reading or watching a video. I would appreciate any advice or recommendation. You can join the gang in my channel t.me/kershalom.
- 
+Going forward I want to do puzzles regularly, learn a bit of tactics, and study by reading or watching a video. I would appreciate any advice or recommendation. You can join the gang in my channel [t.me/kershalom.](t.me/kershalom.) 
 And one final thing for my people on chess.com.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
