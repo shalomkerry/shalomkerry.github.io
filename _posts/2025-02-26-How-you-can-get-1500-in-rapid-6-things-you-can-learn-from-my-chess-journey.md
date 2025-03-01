@@ -1,11 +1,6 @@
-<<<<<<< HEAD:_posts/2025-02-26-GettingTo1500.md
 ## How you can get 1500 in rapid 6 things you can learn from my chess journey
 
 I've been playing chess on Chess.com for over two years—on and off, that is. I created my account on September 6 2022 (wow that is a long time ago. ) I  started with rapid. Its a very beginner friendly time format which gave me time to think before making my moves.I have stuck with it ever since. 
-=======
-## 
-I've been playing chess on Chess.com for over two years—on and off, that is. I created my account on September 6 2022 (wow that is a long time ago. ) I  started with rapid. Its a very beginner friendly time format which gave me time to think before making my moves so i stuck with it. When I started on Chess.com i already knew how to play chess. The moves, how to checkmate with simple patterns like ladder mate and basic stuff like that.
->>>>>>> 6dfe014c4761e1748075719781494e41ea71c18d:_posts/2025-02-26-How-you-can-get-1500-in-rapid-6-things-you-can-learn-from-my-chess-journey.md
 
 When I started on Chess.com i already knew how to play chess. The moves, how to checkmate with simple patterns like ladder mate and basic stuff like that.
 I learned it from Dr Wolf who are kindly sponsoring this blog (jk not yet). After playing with Dr wolf for sometime i stopped playing but started again after encountering this funny guy who is known for shouting "The Rook".
@@ -13,8 +8,6 @@ I learned it from Dr Wolf who are kindly sponsoring this blog (jk not yet). Afte
  His reviews of the games made me want to play again and this time on a platform like Chess.com.  In this blog I will share my journey all the mistakes, and good things you can learn from me to help you reach to 1500 and beyond. 
 
 If you don't have the time to read through the whole thing tho (*inwardly judging your attention span) am basically saying Learn at least one or two openings, don't play like you have to prove something, review the games you played, don't you dare resign even you are down a queen, touch real pieces sometimes and be okay with being beaten.  
-
-
 
 Okay now let me tell you how I learned those things.
 At some points I could say I was addicted to the game and it is the ego stroking you feel after defeating people that did that. I played a lot of games and quickly ranked up my elo and got to 1300 in just 3 month. 
