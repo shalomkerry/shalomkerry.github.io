@@ -50,11 +50,12 @@ The ego stroking thing can be addicting but their comes a time where your pride 
 Those same position will come up again. If you grow your experience of knowing them you will make the right moves on the next games. Go to the point where you messed up, play with the computer and see how you could have done it better . It looks like a hustle when you just want to play the next player but if you are thinking about long term growth its not an option. You must learn from the games you play. 
 
 Giving your queen for free, missing mate in one, and blundering a fork are inevitable when you start out. Has happened to me a bunch of times. Most of the time I wait the game out and a bunch of times I have seen my opponent blunder to give me a winning advantage. Look at this game I played a while back.
-
+<div class=videoContainer>
 <video width="640" height="360" controls>
   <source src="{{ site.baseurl }}/images/Chess-Blog/dont-resign.MP4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</div>
 
 ## 4.Don't ever resign:- 
 The beauty of being in the beginner to intermediate level of chess is both me and my opponent are just waiting for the other one to be the first to blunder. Lets be honest we don't know a dime about tactics and getting an advantage by playing in some way we are just trying to be the last person who is making the blunder.
