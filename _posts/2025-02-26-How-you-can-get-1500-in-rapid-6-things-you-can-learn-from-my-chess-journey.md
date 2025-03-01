@@ -1,5 +1,3 @@
-## How you can get 1500 in rapid 6 things you can learn from my chess journey
-
 I've been playing chess on Chess.com for over two years—on and off, that is. I created my account on September 6 2022 (wow that is a long time ago. ) I  started with rapid. Its a very beginner friendly time format which gave me time to think before making my moves.I have stuck with it ever since. 
 
 When I started on Chess.com i already knew how to play chess. The moves, how to checkmate with simple patterns like ladder mate and basic stuff like that.
