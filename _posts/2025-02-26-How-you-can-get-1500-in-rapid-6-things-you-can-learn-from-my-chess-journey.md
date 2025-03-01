@@ -81,7 +81,7 @@ Its part of the process.  When you lose it hurts so when you play next time you 
 So try to play with older gentleman or higher rated player than you.This going hand to hand with reviewing and resting in between games will help you rank up. 
 
 That's just it keep on playing and before you know it you will get there. That is what happened to me when I reached 1500 on February 13/2025.
-Going forward I want to do puzzles regularly, learn a bit of tactics, and study by reading or watching a video. I would appreciate any advice or recommendation.
+Going forward I want to do puzzles regularly, learn a bit of tactics, and study by reading or watching a video. I would appreciate any advice or recommendation. You can join the gang in my channel t.me/kershalom.
  
 Before I finish two final things for my people on chess.com
 ![Funny GIF]({{ site.baseurl }}/images/Chess-Blog/seeksquare@3x.gif)
@@ -97,4 +97,5 @@ This is one is a discovery I made. You probably have seen this gif while you are
   <img src="{{ site.baseurl }}/images/Chess-Blog/glass.jpg" alt="Reality picture" width="60%">
 </div>
 And last thing:- for people who have the default bland green board theme on what the hell are you guys doing? Don't you guys have any taste or is it because you don't know you can change it to many nice themes by going to settings→themes. I recommend Glass since its objectively the best one. 
-Thanks for reading share this to a friend is addicted to chess. Lets be friends on chess.com. Would love to play with y'all. I will see you on the next one.
+
+Thanks for reading this far. I will see you on the next one.
