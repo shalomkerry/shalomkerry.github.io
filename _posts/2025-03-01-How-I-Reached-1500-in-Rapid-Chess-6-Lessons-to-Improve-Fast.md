@@ -89,6 +89,6 @@ And one final thing for my people on chess.com.
   <img src="{{ site.baseurl }}/images/Chess-Blog/theme.jpg" alt="Instagram picture" width="50%">
   <img src="{{ site.baseurl }}/images/Chess-Blog/glass.jpg" alt="Reality picture" width="60%">
 </div>
-People who have the default bland green board theme on, what the hell are you guys doing? Don't you guys have any taste or is it because you don't know that you can change it to many nice themes?  Go to settings→themes and pick one. I recommend Glass since its objectively the best one.
+People who have the default bland green board theme on, what the hell are you guys doing? Don't you guys have any taste or is it because you don't know that you can change it to many nice themes?  Go to Themes and pick one. I recommend Glass since its objectively the best one.
 
 Thanks for reading.
