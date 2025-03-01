@@ -9,7 +9,7 @@ I learned it from Dr Wolf who are kindly sponsoring this blog (jk not yet). Afte
 If you don't have the time to read through the whole thing tho (*inwardly judging your attention span) am basically saying Learn at least one or two openings, don't play like you have to prove something, review the games you played, don't you dare resign even you are down a queen, touch real pieces sometimes and be okay with being beaten.  
 
 Okay now let me tell you how I learned those things.
-At some points I could say I was addicted to the game and it is the ego stroking you feel after defeating people that did that. I played a lot of games and quickly ranked up my elo and got to 1300 in just 3 month. 
+At some points I could say I was addicted to the game and it is the ego stroking you feel after defeating people that does that. I played a lot of games and quickly ranked up my elo and got to 1300 in just 3 month. 
 
 ![(Chess-rating after the first month). ]({{site.baseurl}}/images/Chess-Blog/first-rating.jpg)
 
@@ -39,7 +39,7 @@ The ego stroking thing can be addicting but their comes a time where your pride 
 
  What I did to help me not play like that which I applied just recently is limit the number of games I am allowed to play on a daily basis to 3. To be accountable with that I challenged myself to do that till I reach 1500 and posted my progress in my channel. This saved me from losing my elo and also I started a good new habit of reviewing my games. 
 
- ## 3.Review games:- 
+ ## 3.Review games 
  You won't do this when you just start out often but I wish did. Chess.com gives one free review per day on the free one. Use that everyday. Learn from your mistakes. Even if you can't do that kind of review (only one is allowed per day without premium subscription) go to self explore and learn what you could have done better by seeing the eval bar. 
 
 Those same position will come up again. If you grow your experience of knowing them you will make the right moves on the next games. Go to the point where you messed up, play with the computer and see how you could have done it better . It looks like a hustle when you just want to play the next player but if you are thinking about long term growth its not an option. You must learn from the games you play. 
@@ -81,4 +81,3 @@ Before I finish two final things for my people on chess.com
 this is one is a discovery I made. You probably have seen this gif while you are waiting for a game to load. Among these friendly faces one face seemed familiar and I learned that it was this guy who made these pranks. I am just proud for noticing it. (Now you know)
 And last thing:- for people who have the default bland green board theme on what the hell are you guys doing? Don't you guys have any taste or is it because you don't know you can change it to many nice themes by going to settings→themes. I recommend Glass since its objectively the best one. 
 Thanks for reading share this to a friend is addicted to chess. Lets be friends on chess.com. Would love to play with y'all. I will see you on the next one.
-
