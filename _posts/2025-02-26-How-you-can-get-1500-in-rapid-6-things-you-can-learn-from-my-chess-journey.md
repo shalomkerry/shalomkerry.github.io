@@ -1,5 +1,5 @@
 I've been playing chess on Chess.com for over two years—on and off, that is. 
-I created my account on September 6 2022 (wow that is a long time ago. ) I  started with rapid. Its a very beginner friendly time format which gave me time to think before making my moves.I have stuck with it ever since. 
+I created my account on September 6 2022 (wow that is a long time ago. ) I  started with rapid. Its a very beginner friendly time format which gave me time to think before making my moves.I have stuck with it. 
 
 When I started on Chess.com i already knew how to play chess. The moves, how to checkmate with simple patterns like ladder mate and basic stuff like that.
 I learned it from [Dr Wolf](https://www.learnchesswithdrwolf.com/) who are kindly sponsoring this blog (jk not yet). After playing with Dr wolf for sometime i stopped playing but started again after encountering this funny guy who is known for shouting "The Rook".
@@ -97,6 +97,6 @@ This is one is a discovery I made. You probably have seen this gif while you are
   <img src="{{ site.baseurl }}/images/Chess-Blog/theme.jpg" alt="Instagram picture" width="50%">
   <img src="{{ site.baseurl }}/images/Chess-Blog/glass.jpg" alt="Reality picture" width="60%">
 </div>
-And last thing:- for people who have the default bland green board theme on what the hell are you guys doing? Don't you guys have any taste or is it because you don't know you can change it to many nice themes by going to settings→themes. I recommend Glass since its objectively the best one. 
+And last thing:- for people who have the default bland green board theme on, what the hell are you guys doing? Don't you guys have any taste or is it because you don't know you can change it to many nice themes by going to settings→themes. I recommend Glass since its objectively the best one. 
 
 Thanks for reading this far. I will see you on the next one.
