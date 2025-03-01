@@ -11,7 +11,7 @@ If you don't have the time to read through the whole thing tho (*inwardly judgin
 Okay now let me tell you how I learned those things.
 At some points I could say I was addicted to the game and it is the ego stroking you feel after defeating people that does that. I played a lot of games and quickly ranked up my elo and got to 1300 in just 3 month. 
 
-![(Chess-rating after the first month). ]({{site.baseurl}}/images/Chess-Blog/first-rating.jpg)
+![(Chess-rating after the first month). ]({{site.baseurl}}/images/Chess-Blog/threemonth.jpg)
 
 That is why I quickly ranked up my elo and got to 1300 in just 3 month. (I didn't start as a totall nooby so this growth kind of make sense). 
 
@@ -41,6 +41,10 @@ The ego stroking thing can be addicting but their comes a time where your pride 
 
 ## 3.Review games 
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="{{ site.baseurl }}/images/Chess-Blog/review.jpg" alt="Instagram picture" width="50%">
+  <img src="{{ site.baseurl }}/images/Chess-Blog/self-analysis.png" alt="Reality picture" width="60%">
+</div>
  You won't do this when you just start out often but I wish did. Chess.com gives one free review per day on the free one. Use that everyday. Learn from your mistakes. Even if you can't do that kind of review (only one is allowed per day without premium subscription) go to self explore and learn what you could have done better by seeing the eval bar. 
 
 Those same position will come up again. If you grow your experience of knowing them you will make the right moves on the next games. Go to the point where you messed up, play with the computer and see how you could have done it better . It looks like a hustle when you just want to play the next player but if you are thinking about long term growth its not an option. You must learn from the games you play. 
@@ -80,6 +84,12 @@ That's just it keep on playing and before you know it you will get there. That i
 Going forward I want to do puzzles regularly, learn a bit of tactics, and study by reading or watching a video. I would appreciate any advice or recommendation.
  
 Before I finish two final things for my people on chess.com
-this is one is a discovery I made. You probably have seen this gif while you are waiting for a game to load. Among these friendly faces one face seemed familiar and I learned that it was this guy who made these pranks. I am just proud for noticing it. (Now you know)
+![Funny GIF]({{ site.baseurl }}/images/Chess-Blog/seeksquare@3x.gif)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="{{ site.baseurl }}/images/Chess-Blog/prankGuy.jpg" alt="Instagram picture" width="50%">
+  <img src="{{ site.baseurl }}/images/Chess-Blog/chessGif.png" alt="Reality picture" width="60%">
+</div>
+This is one is a discovery I made. You probably have seen this gif while you are waiting for a game to load. Among these friendly faces one face seemed familiar and I learned that it was this guy who made these pranks. I am just proud for noticing it. (Now you know)
+
 And last thing:- for people who have the default bland green board theme on what the hell are you guys doing? Don't you guys have any taste or is it because you don't know you can change it to many nice themes by going to settings→themes. I recommend Glass since its objectively the best one. 
 Thanks for reading share this to a friend is addicted to chess. Lets be friends on chess.com. Would love to play with y'all. I will see you on the next one.
