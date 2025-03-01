@@ -19,7 +19,7 @@ One of the things that helped me was knowing one good opening for both white and
 
 That is the first lesson.
 
-## 1-Learn at least one or two openings. 
+## 1. Learn at least one or two openings. 
 
 
 ![(Chess-rating after the first month). ]({{site.baseurl}}/images/Chess-Blog/opening.jpg)
