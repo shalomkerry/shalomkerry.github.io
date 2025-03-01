@@ -85,6 +85,7 @@ Going forward I want to do puzzles regularly, learn a bit of tactics, and study 
  
 Before I finish two final things for my people on chess.com
 ![Funny GIF]({{ site.baseurl }}/images/Chess-Blog/seeksquare@3x.gif)
+
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="{{ site.baseurl }}/images/Chess-Blog/prankGuy.jpg" alt="Instagram picture" width="50%">
   <img src="{{ site.baseurl }}/images/Chess-Blog/chessGif.png" alt="Reality picture" width="60%">
