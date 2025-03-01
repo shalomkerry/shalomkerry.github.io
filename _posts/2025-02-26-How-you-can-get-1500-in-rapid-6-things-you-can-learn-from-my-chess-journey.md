@@ -84,6 +84,7 @@ That's just it keep on playing and before you know it you will get there. That i
 Going forward I want to do puzzles regularly, learn a bit of tactics, and study by reading or watching a video. I would appreciate any advice or recommendation. You can join the gang in my channel t.me/kershalom.
  
 Before I finish two final things for my people on chess.com
+<br/>
 ![Funny GIF]({{ site.baseurl }}/images/Chess-Blog/seeksquare@3x.gif)
 
 <div style="display: flex; justify-content: center; gap: 10px;">
