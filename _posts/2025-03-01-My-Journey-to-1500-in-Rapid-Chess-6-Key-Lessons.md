@@ -56,7 +56,7 @@ Giving your queen for free, missing mate in one, and blundering a fork are inevi
   Your browser does not support the video tag.
 </video>
 
-## 4.Don't ever resign:- 
+## 4.Don't ever resign
 The beauty of being in the beginner to intermediate level of chess is both me and my opponent are just waiting for the other one to be the first to blunder. Lets be honest we don't know a dime about tactics and getting an advantage by playing in some way we are just trying to be the last person who is making the blunder.
 
 His biggest mistake I would say is quickness to resign. For the track record of both of us blundering he shouldn't have thought I would play a perfect game in the remaining moves. Your opponent will make mistakes so even if you don't have a winning advantage at the very least you could get a draw. There is always a chance for that for things to turn around. 
