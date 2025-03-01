@@ -60,8 +60,8 @@ So even if all seems lost don't resign just yet.
 ## 5.Play Over the Board as well
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="{{ site.baseurl }}/images/Chess-Blog/instagram.jpg" alt="Instagram picture" width="45%">
-  <img src="{{ site.baseurl }}/images/Chess-Blog/reality.jpg" alt="Reality picture" width="45%">
+  <img src="{{ site.baseurl }}/images/Chess-Blog/instagram.jpg" alt="Instagram picture" width="auto">
+  <img src="{{ site.baseurl }}/images/Chess-Blog/reality.jpg" alt="Reality picture" width="auto">
 </div>
 
 It might not be easy getting your hands on one but if you can its really a great experience. There is quite a gentleman feeling you get to experience starting the game by shaking hands and even more so shaking those same hands after defeating your opponent. 
