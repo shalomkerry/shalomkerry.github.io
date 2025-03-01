@@ -50,11 +50,6 @@ Giving your queen for free, missing mate in one, and blundering a fork are inevi
   <source src="{{ site.baseurl }}/images/Chess-Blog/dont-resign.MP4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-{{ '<video width="640" height="360" controls>
-  <source src="' | append: site.baseurl | append: '/images/Chess-Blog/dont-resign.mp4' | append: '" type="video/mp4">
-  Your browser does not support the video tag.
-</video>' | raw }}
-
 
 ## 4.Don't ever resign:- 
 The beauty of being in the beginner to intermediate level of chess is both me and my opponent are just waiting for the other one to be the first to blunder. Lets be honest we don't know a dime about tactics and getting an advantage by playing in some way we are just trying to be the last person who is making the blunder.
@@ -64,9 +59,11 @@ So even if all seems lost don't resign just yet.
 
 ## 5.Play Over the Board as well
 
-![(instagram picture). ]({{site.baseurl}}/images/Chess-Blog/instagram.jpg)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="{{ site.baseurl }}/images/Chess-Blog/instagram.jpg" alt="Instagram picture" width="45%">
+  <img src="{{ site.baseurl }}/images/Chess-Blog/reality.jpg" alt="Reality picture" width="45%">
+</div>
 
-![(reality picture lol). ]({{site.baseurl}}/images/Chess-Blog/reality.jpg)
 It might not be easy getting your hands on one but if you can its really a great experience. There is quite a gentleman feeling you get to experience starting the game by shaking hands and even more so shaking those same hands after defeating your opponent. 
 
 And if you can't do that try to make your online experience as close as you can to the real one. You won't get to see lines when you play on the board so its a good to remove them. 
