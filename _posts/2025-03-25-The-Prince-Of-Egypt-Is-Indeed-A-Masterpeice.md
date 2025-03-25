@@ -1,30 +1,39 @@
 Now it came about in the course of those many days that the king of Egypt died. And the sons of Israel groaned because of the bondage, and they cried out; and their cry for help because of their bondage ascended to God. 24 So God heard their groaning; and God remembered His covenant with Abraham, Isaac, and Jacob. 25 And God saw the sons of Israel, and God took notice of them. Exodus 2:23
+## Deliver US
+
 
 We all know the story of Moses, the boy who was meant to be killed by the order of a tyrant king, Pharaoh. Fearing that the growing population of the Israelites would one day outnumber and overpower his people, Pharaoh sought to control them—keeping the men as laborers and ordering the killing of the new generation. 
 
-Moses hidden by his Mother for 3 month finally gives him up to fate than see him be killed by the Egyptians. By chance the river leads him to Pharoah's daughter who welcomes this baby brought to her while she bathed.(They changed some of the things from the bible narration.The movie starts with such a beautiful and emotional scene of People )
+Moses hidden by his Mother for 3 month. The bible actually says she hid him because she found Moses beautifull. When she couldn't no longer hide him. When she can no longer hid him she gives him up to fate than see him be killed by the Egyptians. By chance the river leads him to Pharoah's daughter who welcomes this baby brought to her while she bathed.(They changed some of the things from the bible narration.The movie starts with such a beautiful and emotional scene of People Suffering and Moses's Mother scene.-Her name is not mentioned in the bible)
+## Moses Mom (Now a man from the house of Levi went and [a]married a daughter of Levi. 2 And the woman conceived and gave birth to a son; and when she saw [b]that he was [c]beautiful, she hid him for three months. 3 But when she could no longer hide him, she got him a papyrus [d]basket and covered it with tar and pitch. Then she put the child in it and set it among the reeds by the bank of the Nile. 4 And his sister stood at a distance to [e]find out what would [f]happen to him.)
+
 
 He not only survived the death that took other boys but he got to feed on his mothers breast plus he grew in a palace considered as a prince. 
 
  The bible doesn't have an account on how he got to know his origins. The movie continues to portray it  beautifully yet again. He understands he isn't actually a prince of Egypt. He was one who was lucky to miss death. He feels discomfort with the ill treatement of the hebrew people. 
- 
+ ## Moses crying
+
+
 He kills a soldier who was mistreating a hebrew person. 
 
 When Pharaoh heard about this matter, he tried to kill Moses.(Another change in the movie) But Moses fled from the presence of Pharaoh and settled in the land of Midian, and he sat down by a well.
+## Moses Flee Exile
+
 
 If any one was under identity crisis it was Moses. He fleds. Who was he actually? Why was he fortunate to not die? Why did he kill a soldier? Isn't his alliegnece to Egypt? Why did he try to protect that Hebrew person?  I think he thought of all of these questions and more in his wandering in the desert. He might have been in an existential crisis. He was lost becuase he just lost the place he considered to be his home but he never belonged there... Who was he actually and where will his journey lead him?  
 
 But Moses fled from the presence of Pharaoh and [s]settled in the land of Midian, and he sat down by a well. Exodus 2:15b
-
+## Look Through Heaven's Eye
 By chance he finds himself a desert people called Medianites who accepted him. He gets along with an old Wise Man the Priest of the Midianties called:- Jethro. 
 He teaches him with wise teachings. Not to understand his identity through what people say of him not even what he thought of himself but through Heaven's Eye. 
 He shows him how to be a man. How to lead sheep, to protect and guide each one. His time as a shepherd prepares him to what he is going to be next. Its like his training ground. 
 
 Moses and Jethro get along so well Jethro gives him his daughter Zipporah in marriage.
 
+## Zipporah looking at Moses so weirdly
 (Zipporah and Moses, If a lady looks at you like this this is the ultimate sign she likes you)
 
-
+## Moses Meets God
 And then he meets God. (This is absolutely a wonderful scene.)
 
 He was chosen by I AM. The God of his ancestors. God commissions him to be his messenger to tell Pharao 'To let His People Go'. 
@@ -34,31 +43,30 @@ Moses now understands he is a prophet. A prophet of I AM. He knows his purpose, 
 SO he goes and confronts Ramezzes. Pharao is not willing to let them go. 
 
 So Horrible Plagues happen. 10 in total.
-
+## The Plagues
 This is an also a really great scene. The plague scene shows the tension between these two brothers and what Ramezzes was feeling. 
-
+## The death of Pharaos Son
 Sadly Pharao doesn't give in till the last plague. And it came at a great loss.
 
 
 The people after years of slavery are finally free. Jubille. Joy. Freedom.
-
+## The People, The Sea, 
 It didn't Last Long. Well now they are going to die. The Read Sea before them Pharaos furious army behind them they were doomed to death.
-
+## The Fire
 No God wasn't going to let them die like that. He was going to show his outstretched arm and deliver them from this Army. A Fire hinders the army from reaching the people and before them...
-
+## The Sea Parts
 Moses outsrteches his Staff and The Sea parts way. Wall of water standing to let them pass safely on dry land. 
 
+## Moses with the 10 Commandements
 Moses now knows who he is. He is a prophet of God. The leader who is responsible to give them God's law. And as he brings the 10 commandments, he was about to speak and what the heck the people are now worshiping a calf idol, what ....(well the movie ends before that lol)
 
-A throw back to Moses standing before his Sheep and The Israelites. 
+A throw back to Moses standing before his Sheep and The Israelites. It was quite similar. See God was preparing him for greater things. 
 
-This movie brings the bible story to life portrays everything to the finest detail and makes you feel sad, angry, lost and happy as the characters do. 
+This movie brings the bible story to life portrays everything to the finest detail and makes you feel sad, angry, lost and happy as the characters did. 
 
-The scenes, the statues and palaces of Egypt all made so grand and glorious, the miracle and plague scene absolutely wonderful. The emotions of both people. The way Ramezzees was trying to This movie is an actual masterpiece. The tension inside Moses when he was trying to find himself, the tension between Moses and Ramezees and the songs Deliver Us and Through Heaven's Eyes (This one won an oscar)
+The scenes, the statues and palaces of Egypt all made so grand and glorious, the miracle and plague scene absolutely wonderful, and the Songs. The tension inside Moses when he was trying to find himself, the tension between Moses and Ramezees and the songs Deliver Us and Through Heaven's Eyes (This one won an oscar). This movie is an actual masterpiece. 
 
 The crazy part is this movie is older than me. It was made in 1998. Watch its history here. Its pretty interesting. 
-
-
 
 What I have learnt from this amazing movie can be summed up as the following:- 
 - Feeling lost is not bad, the wandering in desert will make you find God and discover what He says you are. God promised to talk to Israel by taking her to the desert.  Lowly places are not bad places they means for preparing you for greater work. 
@@ -68,6 +76,6 @@ What I have learnt from this amazing movie can be summed up as the following:-
 
 If you haven't watched the whole thing what are you doing here? Go watch it. And if you have, savor the story of Moses with this brilliant song by Jimmy Clifton called you guessed it Moses. 
 
-I am a bit obessed with this movie but it made me really happy. I have and am still watching edits on YouTube. They are pretty cool honestly.Some of the ones that I loved I linked them down below. Thanks for reading this far. 
+I am a bit obessed with this movie because it made me really happy. I have and am still watching edits on YouTube. They are pretty cool honestly.Some of the ones that I loved I linked them down below. Thanks for reading this far. 
 
-See you on the next one
+See you on the next one.
