@@ -1,0 +1,3 @@
+We all know the story of Moses, a boy who was supposed to be killed by the order of a tyrant king, Pharoah. He wanted grown men to work for him but he didn't want a lot of new generation to out number them one day. 
+
+Moses hidden by his strong Mother for months and finally given up to fate than see him be killed. By chance the river leads him to Pharoah's daughter who welcomes this baby brought to her while she bathed. 
