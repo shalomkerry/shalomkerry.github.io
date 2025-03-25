@@ -1,18 +1,18 @@
 Now it came about in the course of those many days that the king of Egypt died. And the sons of Israel groaned because of the bondage, and they cried out; and their cry for help because of their bondage ascended to God. 24 So God heard their groaning; and God remembered His covenant with Abraham, Isaac, and Jacob. 25 And God saw the sons of Israel, and God took notice of them. Exodus 2:23
 
-We all know the story of Moses, a boy who was supposed to be killed by the order of a tyrant king, Pharoah. He wanted grown men to work for him but he didn't want a lot of new generation to out number them one day. 
+We all know the story of Moses, the boy who was meant to be killed by the order of a tyrant king, Pharaoh. Fearing that the growing population of the Israelites would one day outnumber and overpower his people, Pharaoh sought to control them—keeping the men as laborers and ordering the killing of the new generation. 
 
 Moses hidden by his Mother for 3 month finally gives him up to fate than see him be killed by the Egyptians. By chance the river leads him to Pharoah's daughter who welcomes this baby brought to her while she bathed.(They changed some of the things from the bible narration.The movie starts with such a beautiful and emotional scene of People )
 
 He not only survived the death that took other boys but he got to feed on his mothers breast plus he grew in a palace considered as a prince. 
 
- The bible doesn't have an account of how he got to know his origins. The movie again portrays it beautifully. He understands he isn't actually a prince of Egypt. He was one who was lucky to miss death. He feels discomfort with the ill treatement of the hebrew people. 
+ The bible doesn't have an account on how he got to know his origins. The movie continues to portray it  beautifully yet again. He understands he isn't actually a prince of Egypt. He was one who was lucky to miss death. He feels discomfort with the ill treatement of the hebrew people. 
  
 He kills a soldier who was mistreating a hebrew person. 
 
 When Pharaoh heard about this matter, he tried to kill Moses.(Another change in the movie) But Moses fled from the presence of Pharaoh and settled in the land of Midian, and he sat down by a well.
- 
-If any one was under identity crisis it was Moses. He fleds. Who was he actually? Why was he fortunate to not die? Why did he kill a soldier? Isn't his alliegnece to Egypt? Why did he try to protect that Hebrew person?  I think he thought of all of these questions and more in his exil in the desert. He might even have felt unworthy to have survived as baby. He was lost Who was he actually and where will his journey lead him?  
+
+If any one was under identity crisis it was Moses. He fleds. Who was he actually? Why was he fortunate to not die? Why did he kill a soldier? Isn't his alliegnece to Egypt? Why did he try to protect that Hebrew person?  I think he thought of all of these questions and more in his wandering in the desert. He might have been in an existential crisis. He was lost becuase he just lost the place he considered to be his home but he never belonged there... Who was he actually and where will his journey lead him?  
 
 But Moses fled from the presence of Pharaoh and [s]settled in the land of Midian, and he sat down by a well. Exodus 2:15b
 
@@ -20,7 +20,9 @@ By chance he finds himself a desert people called Medianites who accepted him. H
 He teaches him with wise teachings. Not to understand his identity through what people say of him not even what he thought of himself but through Heaven's Eye. 
 He shows him how to be a man. How to lead sheep, to protect and guide each one. His time as a shepherd prepares him to what he is going to be next. Its like his training ground. 
 
-They actually get along so well Jethro gives him his daughter Zipporah in marriage.  
+Moses and Jethro get along so well Jethro gives him his daughter Zipporah in marriage.
+
+(Zipporah and Moses, If a lady looks at you like this this is the ultimate sign she likes you)
 
 
 And then he meets God. (This is absolutely a wonderful scene.)
@@ -35,8 +37,9 @@ So Horrible Plagues happen. 10 in total.
 
 This is an also a really great scene. The plague scene shows the tension between these two brothers and what Ramezzes was feeling. 
 
-
 Sadly Pharao doesn't give in till the last plague. And it came at a great loss.
+
+
 The people after years of slavery are finally free. Jubille. Joy. Freedom.
 
 It didn't Last Long. Well now they are going to die. The Read Sea before them Pharaos furious army behind them they were doomed to death.
