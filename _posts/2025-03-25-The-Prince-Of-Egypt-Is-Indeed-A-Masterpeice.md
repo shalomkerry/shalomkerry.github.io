@@ -68,6 +68,6 @@ What I have learnt from this amazing movie can be summed up as the following:-
 
 If you haven't watched the whole thing what are you doing here? Go watch it. And if you have, savor the story of Moses with this brilliant song by Jimmy Clifton called you guessed it Moses. 
 
-I am a bit obessed with this movie but it made me really happy. I have and am still watching edits on edits. They are pretty cool honestly.Some of the ones that I loved I linked them down below. Thanks for reading this far. 
+I am a bit obessed with this movie but it made me really happy. I have and am still watching edits on YouTube. They are pretty cool honestly.Some of the ones that I loved I linked them down below. Thanks for reading this far. 
 
 See you on the next one
