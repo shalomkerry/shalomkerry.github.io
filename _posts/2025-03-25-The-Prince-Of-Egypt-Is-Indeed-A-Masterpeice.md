@@ -10,18 +10,19 @@ Moses hidden by his Mother for 3 month. The bible actually says she hid him beca
 
 He not only survived the death that took many others but he got to feed on his mothers breast and grew in a palace considered as a prince. 
 
-The bible doesn't have an account on how he got to know his origins.The movie shows that very beautifully.
+## Moses comes to know
+The bible doesn't have an account on how he got to know his origins.The movie shows this very beautifully.
 
-He understands he isn't actually a prince of Egypt. He was one who was lucky to miss death. He feels discomfort with the ill treatement of the hebrew people. 
- ## Moses crying
+He understands he isn't actually a prince of Egypt. The suffering of the people he used to despise now brought him pain. He kills a soldier who was mistreating a hebrew person. 
 
+When Pharaoh heard about this matter, he tried to kill Moses. They didn't show this part in the movie but out of guilt and fear Moses fled. 
 
-He kills a soldier who was mistreating a hebrew person. 
+## Moses Exile
 
-When Pharaoh heard about this matter, he tried to kill Moses. They didn't show this part in the movie but  Moses still fleds. 
-## Moses Flee Exile
-
-
+<video width="auto" height="360" controls>
+  <source src="{{ site.baseurl }}/images/Prince-Of-Egypt/Moses flees.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 If any one was under identity crisis it was Moses. He fleds. Who was he actually? Why was he fortunate to not die? Why did he kill a soldier? Isn't his alliegnece to Egypt? Why did he try to protect that Hebrew person?  I think he thought of all of these questions and more in his wandering in the desert. He might have been in an existential crisis. He was lost because he just lost the place he considered to be his home but he never belonged there... He slowly accepts that he was never an Egyptian but who was he? Who should he become? 
 
 But Moses fled from the presence of Pharaoh and [s]settled in the land of Midian, and he sat down by a well. Exodus 2:15b
@@ -66,11 +67,13 @@ It didn't Last Long. Well now they are going to die. The Read Sea before them Ph
 No God wasn't going to let them die like that. He was going to show his outstretched arm and deliver them from this Army. A Fire hinders the army from reaching the people and before them... 
 
 ## The Sea Parts
-Moses outsrteches his Staff and The Sea parts way. Wall of water standing to let them pass safely on dry land. 
+Moses outstretches his Staff and The Sea parts way. Wall of water standing to let them pass safely on dry land. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TzRrEgkfhG8?si=v7fO5h6k8mniZ7Qh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Moses with the 10 Commandements
 Moses now knows who he is. He is a prophet of God. The leader who is responsible to give them God's law. And as he brings the 10 commandments, he was about to speak and what the heck the people are now worshiping a calf idol, what ....(well the movie ends before that lol)
 
+## Reflection
 A throw back to Moses standing before his Sheep and The Israelites. It was quite similar. See God was preparing him for greater things. 
 
 This movie brings the bible story to life portrays everything to the finest detail and makes you feel sad, angry, lost and happy as the characters did. 
@@ -79,14 +82,18 @@ The animation, the statues and palaces of Egypt all made so grand and glorious, 
 
 The crazy part is this movie is older than me. It was made in 1998. Watch its history here. Its pretty interesting. 
 
+## Lessons 
 What I have learnt from this amazing movie can be summed up as the following:- 
 - Feeling lost is not bad, the wandering in desert will make you find God and discover what He says you are. God promised to talk to Israel by taking her to the desert.  Lowly places are not bad places. They are the means for preparing you for great work. 
 - Don't try define yourself except through God's definition of yourself. In Jethro's words Look Through Heaven's Eyes to you or situations.
 - Obey God. Don't try to pick a fight with Him. Don't oppose Him. You won't win. 
 - Ferenjoch lela tarik wuste nachew. Bro they made this in 1998. I can't help but compare my country to them and be disappointed. Please we need to create masterpieces like this. At least try to get at a level that is better than where we are now.(this one is more of an observation) 
 
+## Prologue
 If you haven't watched the whole thing what are you doing here? Go watch it. And if you have, savor the story of Moses with this brilliant song by Jimmy Clifton called you guessed it Moses. 
 
- I have and am still watching edits on YouTube. They are pretty cool honestly.Some of the ones that I loved I linked them down below. Am a bit obsessed with it and this blog is more of just putting these links in one place so I can turn back and appreciate it in the future. Thanks for reading. 
+I have and am still watching edits on YouTube. They are pretty cool honestly.Some of the ones that I loved I linked them down below. Am a bit obsessed with it and this blog is more of just putting these links in one place so I can turn back and appreciate it in the future. Thanks for reading. 
+
+
 
 See you on the next one.
