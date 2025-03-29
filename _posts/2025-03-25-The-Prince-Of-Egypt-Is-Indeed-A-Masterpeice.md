@@ -50,16 +50,21 @@ SO he goes and confronts Ramezzes. Pharao is not willing to let them go.
 
 So Horrible Plagues happen. 10 in total.
 ## The Plagues
-This is an also a really great scene. The plague scene shows the tension between these two brothers and what Ramezzes was feeling. 
-## The death of Pharaos Son
+<iframe width="660" height="315" src="https://www.youtube.com/embed/GJleW4TCQM0?si=c4gpG40b65epWwpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+This is an also a really great scene. The plague scene shows the tension between these Moses and Rameezes. In order the plagues were:- Water turned to blood, frogs, lice, flies, pestilence on Livestock, boils, hail, locusts, darkness and Death of the Firstborn. 
+
+## The Death of Pharaos Son
 Sadly Pharao doesn't give in till the last plague. And it came at a great loss.
 
 
 The people after years of slavery are finally free. Jubille. Joy. Freedom.
-## The People, The Sea, 
+
+## The Sea, Israel, Pharao's Army 
 It didn't Last Long. Well now they are going to die. The Read Sea before them Pharaos furious army behind them they were doomed to death.
-## The Fire
-No God wasn't going to let them die like that. He was going to show his outstretched arm and deliver them from this Army. A Fire hinders the army from reaching the people and before them...
+
+## God saves Them
+No God wasn't going to let them die like that. He was going to show his outstretched arm and deliver them from this Army. A Fire hinders the army from reaching the people and before them... 
+
 ## The Sea Parts
 Moses outsrteches his Staff and The Sea parts way. Wall of water standing to let them pass safely on dry land. 
 
@@ -70,18 +75,18 @@ A throw back to Moses standing before his Sheep and The Israelites. It was quite
 
 This movie brings the bible story to life portrays everything to the finest detail and makes you feel sad, angry, lost and happy as the characters did. 
 
-The scenes, the statues and palaces of Egypt all made so grand and glorious, the miracle and plague scene absolutely wonderful, and the Songs. The tension inside Moses when he was trying to find himself, the tension between Moses and Ramezees and the songs Deliver Us and Through Heaven's Eyes (This one won an oscar). This movie is an actual masterpiece. 
+The animation, the statues and palaces of Egypt all made so grand and glorious, the miracle and plague scene absolutely wonderful, and the Songs. The tension inside Moses when he was trying to find himself, the conflict between Moses and Ramezees feeling so real (at times I felt sad for Ramezees he was trying to not be a weak link), the songs Deliver Us and Through Heaven's Eyes (This one won an oscar) and just the overall beauty of the scenes when all these things are brought together does make you say This movie is a masterpiece. 
 
 The crazy part is this movie is older than me. It was made in 1998. Watch its history here. Its pretty interesting. 
 
 What I have learnt from this amazing movie can be summed up as the following:- 
-- Feeling lost is not bad, the wandering in desert will make you find God and discover what He says you are. God promised to talk to Israel by taking her to the desert.  Lowly places are not bad places they means for preparing you for greater work. 
-- Don't try define yourself except through God's definition of yourself. In Jethro's words Look Throug Heaven's Eyes to you or situations.
+- Feeling lost is not bad, the wandering in desert will make you find God and discover what He says you are. God promised to talk to Israel by taking her to the desert.  Lowly places are not bad places. They are the means for preparing you for great work. 
+- Don't try define yourself except through God's definition of yourself. In Jethro's words Look Through Heaven's Eyes to you or situations.
 - Obey God. Don't try to pick a fight with Him. Don't oppose Him. You won't win. 
-- Ferenjoch lela tarik wuste nachew. Bro they made this in 1998. I can't help but compare my country to them and be dissapointed. Please we need to create masterpieces like this. At least try to get at a level that is better than where we are now. 
+- Ferenjoch lela tarik wuste nachew. Bro they made this in 1998. I can't help but compare my country to them and be disappointed. Please we need to create masterpieces like this. At least try to get at a level that is better than where we are now.(this one is more of an observation) 
 
 If you haven't watched the whole thing what are you doing here? Go watch it. And if you have, savor the story of Moses with this brilliant song by Jimmy Clifton called you guessed it Moses. 
 
-I am a bit obessed with this movie because it made me really happy. I have and am still watching edits on YouTube. They are pretty cool honestly.Some of the ones that I loved I linked them down below. Thanks for reading this far. 
+ I have and am still watching edits on YouTube. They are pretty cool honestly.Some of the ones that I loved I linked them down below. Am a bit obsessed with it and this blog is more of just putting these links in one place so I can turn back and appreciate it in the future. Thanks for reading. 
 
 See you on the next one.
