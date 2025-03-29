@@ -107,7 +107,9 @@ A throw back to Moses standing before his Sheep and The Israelites. It was quite
 
 This movie brings the bible story to life portrays everything to the finest detail and makes you feel sad, angry, lost and happy as the characters did. 
 
-The animation, the statues and palaces of Egypt all made so grand and glorious, the miracle and plague scene absolutely wonderful, and the Songs. The tension inside Moses when he was trying to find himself, the conflict between Moses and Ramses feeling so real (at times I felt sad for Ramses he was trying to not be a weak link), the songs Deliver Us and Through Heaven's Eyes (This one won an oscar) and just the overall beauty of the scenes when all these things are brought together does make you say This movie is a masterpiece. 
+The animation, the statues and palaces of Egypt all made so grand and glorious, the miracle and plague scene absolutely wonderful, and the Songs. Em so good. 
+
+ The grief of the Israelites, the conflict between Moses and Ramses felt so so real (at times I felt sad for Ramses as well he was trying to not be a weak link), the songs Deliver Us and Through Heaven's Eyes (This one won an oscar) and just the overall beauty of the scenes when all these things are brought together, it does make you say This movie is a masterpiece. 
 
 The crazy part is this movie is older than me. It was made in 1998. Watch its history here. Its pretty interesting. 
 
@@ -123,6 +125,6 @@ Some of the things I took away after watching this movie were.
 ## Prologue
 If you haven't watched the whole thing what are you doing here? Go watch it. And if you have, savor the story of Moses with this lovely song by Jimmy Clifton called you guessed it Moses. 
 
-I have and am still watching edits on YouTube. They are pretty cool honestly.This blog is putting these links in one place so turn back and appreciate it in the future. Thanks for reading. 
+I have and am still watching edits on YouTube. They are pretty cool honestly.This blog is putting these links in one place so I can turn back and appreciate it in the future. Thanks for reading. 
 
 See you on the next one.
