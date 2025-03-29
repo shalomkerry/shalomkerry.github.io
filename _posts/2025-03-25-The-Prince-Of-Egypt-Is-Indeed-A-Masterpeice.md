@@ -1,4 +1,4 @@
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/fQhcOJHTdb4?si=xRinrhLqEu7_Xo4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="315" src="https://www.youtube.com/embed/fQhcOJHTdb4?si=xRinrhLqEu7_Xo4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 We all know the story of Moses, the boy who was meant to be killed by the order of a tyrant king, Pharaoh. Fearing that the growing population of the Israelites would one day outnumber and overpower his people, Pharaoh sought to control them—keeping the men as laborers and ordering the killing of the new generation. 
 
@@ -17,13 +17,13 @@ When Pharaoh heard about this matter, he tried to kill Moses. They didn't show t
 
 ## Moses Exile
 
-<video width="auto" height="360" controls>
+<video width="700" height="360" controls>
   <source src="{{ site.baseurl }}/images/Prince-Of-Egypt/Moses flees.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 If any one was under identity crisis it was Moses. He fleds. Who was he actually? Why was he fortunate to not die? Why did he kill a soldier? Isn't his alliegnece to Egypt? Why did he try to protect that Hebrew person?  I think he thought of all of these questions and more in his wandering in the desert. He might have been in an existential crisis. He was lost because he just lost the place he considered to be his home but he never belonged there... He slowly accepts that he was never an Egyptian but who was he? Who should he become? 
 
->But Moses fled from the presence of Pharaoh and [s]settled in the land of Midian, and he sat down by a well. Exodus 2:15b
+>But Moses fled from the presence of Pharaoh and settled in the land of Midian, and he sat down by a well. Exodus 2:15b
 
 ## Look Through Heaven's Eye
 
@@ -36,19 +36,19 @@ He shows him how to be a man. How to lead sheep, to protect and guide each one. 
 
 Moses and Jethro get along so well Jethro gives him his daughter Zipporah in marriage.
 
-![(Zipporah looking at Moses so weirdly). ]({{site.baseurl}}/images/Prince-Of-Egypt/The sea parts.png)
+![(Zipporah looking at Moses so weirdly). ]({{site.baseurl}}/images/Prince-Of-Egypt/married.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a-VRh8oshjs?si=nnzT1a-rA8uVZ0IP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="315" src="https://www.youtube.com/embed/a-VRh8oshjs?si=nnzT1a-rA8uVZ0IP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Moses Meets God
-He was living a very normal life, settled down, has a wife, nice job, his former life didn't bother him he was just chilling and then he meets God. 
+He was living a very normal life, settled down, has a wife, nice job, his past didn't bother him he was just chilling and then he meets God. 
 
-
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=CojKklvbuaizb7za" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=CojKklvbuaizb7za" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This is absolutely a wonderful scene.
 
-He was chosen by I AM. The God of his ancestors. God commissions him to be his messenger to tell Pharaos 'To let His People Go'. 
+He was chosen by I AM. The God of his ancestors.His story just got a bit interesting. 
+God commissions him to be his messenger to tell Pharaoh 'To let His People Go'. 
 
 > Now it came about in the course of those many days that the king of Egypt died. And the sons of Israel groaned because of the bondage, and they cried out; and their cry for help because of their bondage ascended to God. 24 So God heard their groaning; and God remembered His covenant with Abraham, Isaac, and Jacob. 25 And God saw the sons of Israel, and God took notice of them. Exodus 2:23
 
@@ -58,7 +58,7 @@ Moses now understands he is a prophet. A prophet of I AM. He knows his purpose, 
 So he goes and confronts Ramezzes. Pharao is not willing to let them go. 
 
 ## The Plagues
-<iframe width="660" height="315" src="https://www.youtube.com/embed/GJleW4TCQM0?si=c4gpG40b65epWwpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="315" src="https://www.youtube.com/embed/GJleW4TCQM0?si=c4gpG40b65epWwpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 This is an also a really great scene. The plague scene shows the tension between these Moses and Rameezes. In order the plagues were:- Water turned to blood, frogs, lice, flies, pestilence on Livestock, boils, hail, locusts, darkness and Death of the Firstborn. 
 
 ## The Death of Pharaos Son
@@ -75,7 +75,7 @@ No God wasn't going to let them die like that. He was going to show his outstret
 
 ## The Sea Parts
 Moses outstretches his Staff and The Sea parts way. Wall of water standing to let them pass safely on dry land. 
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/TzRrEgkfhG8?si=v7fO5h6k8mniZ7Qh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="315" src="https://www.youtube.com/embed/TzRrEgkfhG8?si=v7fO5h6k8mniZ7Qh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Moses with the 10 Commandements
 Moses now knows who he is. He is a prophet of God. The leader who is responsible to give them God's law. And as he brings the 10 commandments, he was about to speak and what the heck the people are now worshiping a calf idol, what ....(well the movie ends before that lol)
