@@ -36,7 +36,7 @@ Moses and Jethro get along so well Jethro gives him his daughter Zipporah in mar
 ## Zipporah looking at Moses so weirdly
 (Zipporah and Moses, If a lady looks at you like this this is the ultimate sign she likes you)
 
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=kgnJkgXimXiEPkXT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a-VRh8oshjs?si=nnzT1a-rA8uVZ0IP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Moses Meets God
 He was living a very normal life, settled down, has a wife, nice job, his former life didn't bother him he was just chilling and then he meets God. 
