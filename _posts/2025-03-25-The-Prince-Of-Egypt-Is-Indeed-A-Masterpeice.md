@@ -31,10 +31,12 @@ By chance he finds himself a desert people called Medianites who accepted him. H
 He teaches him with wise teachings. Not to understand his identity through what people say of him not even what he thought of himself but through Heaven's Eye. 
 He shows him how to be a man. How to lead sheep, to protect and guide each one. His time as a shepherd prepares him to what he is going to be next. Its like his training ground. 
 
+![(Zipporah looking at Moses so weirdly). ]({{site.baseurl}}/images/Prince-Of-Egypt/zipporah.png)
+(Zipporah and Moses, If a lady looks at you like this this is the ultimate sign she likes you)
+
 Moses and Jethro get along so well Jethro gives him his daughter Zipporah in marriage.
 
-## Zipporah looking at Moses so weirdly
-(Zipporah and Moses, If a lady looks at you like this this is the ultimate sign she likes you)
+![(Zipporah looking at Moses so weirdly). ]({{site.baseurl}}/images/Prince-Of-Egypt/The sea parts.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-VRh8oshjs?si=nnzT1a-rA8uVZ0IP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
