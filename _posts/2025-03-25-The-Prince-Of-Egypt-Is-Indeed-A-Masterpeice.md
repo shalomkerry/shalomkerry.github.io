@@ -1,4 +1,4 @@
-<iframe width="660" height="315" src="https://www.youtube.com/embed/fQhcOJHTdb4?si=xRinrhLqEu7_Xo4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="auto" height="315" src="https://www.youtube.com/embed/fQhcOJHTdb4?si=xRinrhLqEu7_Xo4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 We all know the story of Moses, the boy who was meant to be killed by the order of a tyrant king, Pharaoh. Fearing that the growing population of the Israelites would one day outnumber and overpower his people, Pharaoh sought to control them—keeping the men as laborers and ordering the killing of the new generation. 
 
@@ -36,13 +36,13 @@ Moses and Jethro get along so well Jethro gives him his daughter Zipporah in mar
 ## Zipporah looking at Moses so weirdly
 (Zipporah and Moses, If a lady looks at you like this this is the ultimate sign she likes you)
 
-<iframe width="660" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=kgnJkgXimXiEPkXT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="auto" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=kgnJkgXimXiEPkXT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Moses Meets God
 He was living a very normal life, settled down, has a wife, nice job, his former life didn't bother him he was just chilling and then he meets God. 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=CojKklvbuaizb7za" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="auto" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=CojKklvbuaizb7za" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This is absolutely a wonderful scene.
 
@@ -73,7 +73,7 @@ No God wasn't going to let them die like that. He was going to show his outstret
 
 ## The Sea Parts
 Moses outstretches his Staff and The Sea parts way. Wall of water standing to let them pass safely on dry land. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TzRrEgkfhG8?si=v7fO5h6k8mniZ7Qh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="auto" height="315" src="https://www.youtube.com/embed/TzRrEgkfhG8?si=v7fO5h6k8mniZ7Qh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Moses with the 10 Commandements
 Moses now knows who he is. He is a prophet of God. The leader who is responsible to give them God's law. And as he brings the 10 commandments, he was about to speak and what the heck the people are now worshiping a calf idol, what ....(well the movie ends before that lol)
