@@ -36,9 +36,13 @@ Moses and Jethro get along so well Jethro gives him his daughter Zipporah in mar
 (Zipporah and Moses, If a lady looks at you like this this is the ultimate sign she likes you)
 
 <iframe width="660" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=kgnJkgXimXiEPkXT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Moses Meets God
 And then he meets God. (This is absolutely a wonderful scene.)
 
-He was chosen by I AM. The God of his ancestors. God commissions him to be his messenger to tell Pharao 'To let His People Go'. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=CojKklvbuaizb7za" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+He was chosen by I AM. The God of his ancestors. God commissions him to be his messenger to tell Pharaos 'To let His People Go'. 
 
 Moses now understands he is a prophet. A prophet of I AM. He knows his purpose, it all made sense now, God got him here and he didn't die then because of this. God wanted a prophet to free his people. 
 
