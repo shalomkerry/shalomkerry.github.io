@@ -86,7 +86,11 @@ No God wasn't going to let them die like that. He was going to show his outstret
 
 ## The Sea Parts
 Moses outstretches his Staff and The Sea parts way. Wall of water standing to let them pass safely on dry land. 
-<iframe width="700" height="315" src="https://www.youtube.com/embed/TzRrEgkfhG8?si=v7fO5h6k8mniZ7Qh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<video width="700" height="360" controls>
+  <source src="{{ site.baseurl }}/images/Prince-Of-Egypt/The sea parts.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Moses with the 10 Commandements
 Moses now knows who he is. He is a prophet of God. The leader who is responsible to give them God's law. And as he brings the 10 commandments, he was about to speak and what the heck the people are now worshiping a calf idol, what ....(well the movie ends before that lol)
