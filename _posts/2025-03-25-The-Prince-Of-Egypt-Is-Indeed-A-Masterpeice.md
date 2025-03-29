@@ -11,6 +11,8 @@ He not only survived the death that took many others but he got to feed on his m
 ## Moses comes to know
 The bible doesn't have an account on how he got to know his origins.The movie shows this very beautifully.
 
+![(Ramses son dies). ]({{site.baseurl}}/images/Prince-Of-Egypt/origin.png)
+
 He understands he isn't actually a prince of Egypt. The suffering of the people he used to despise now brought him pain. He kills a soldier who was mistreating a hebrew person. 
 
 When Pharaoh heard about this matter, he tried to kill Moses. They didn't show this part in the movie but out of guilt and fear Moses fled. 
@@ -36,9 +38,9 @@ He shows him how to be a man. How to lead sheep, to protect and guide each one. 
 
 Moses and Jethro get along so well Jethro gives him his daughter Zipporah in marriage.
 
-<iframe width="700" height="315" src="https://www.youtube.com/embed/a-VRh8oshjs?si=nnzT1a-rA8uVZ0IP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a-VRh8oshjs?si=AkmqjYpbxh2i8BWC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This song also hits. Listen to it when you feel you run low on self-esteem. 
+This song hits. Listen to it when you feel you run low on self-esteem. 
 
 >If a man lose ev'rything he owns
 Has he truly lost his worth?
@@ -66,22 +68,22 @@ God commissions him to be his messenger to tell Pharaoh 'To let His People Go'.
 ## A commission of a life time
 Moses now understands he is a prophet. A prophet of I AM. He knows his purpose, it all made sense now, God got him here and he didn't die then because of this. God wanted a prophet to free his people. 
 
-So he goes and confronts Ramezzes. Pharao is not willing to let them go. 
+So he goes and confronts Ramses. Pharaoh is not willing to let them go. 
 
 ## The Plagues
 <iframe width="700" height="315" src="https://www.youtube.com/embed/GJleW4TCQM0?si=c4gpG40b65epWwpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-This is an also a really great scene. The plague scene shows the tension between these Moses and Rameezes. In order the plagues were:- Water turned to blood, frogs, lice, flies, pestilence on Livestock, boils, hail, locusts, darkness and Death of the Firstborn. 
+This is an also a really great scene. The plague scene shows the tension between Moses and Ramses. In order the plagues were:- Water turned to blood, frogs, lice, flies, pestilence on Livestock, boils, hail, locusts, darkness and Death of the Firstborn. 
 
 ## The Death of Pharaos Son
 Sadly Pharao doesn't give in till the last plague. And it came at a great loss.
 
+![(Ramses son dies). ]({{site.baseurl}}/images/Prince-Of-Egypt/origin.png)
 
 The people after years of slavery are finally free. Jubille. Joy. Freedom.
 
 ## The Sea, Israel, Pharao's Army 
-It didn't Last Long. Well now they are going to die. The Read Sea before them Pharaos furious army behind them they were doomed to death.
+It didn't Last Long. Well now they are going to die. The Read Sea before them Pharaoh's furious army behind them they were doomed to death.
 
-## God saves Them
 No God wasn't going to let them die like that. He was going to show his outstretched arm and deliver them from this Army. A Fire hinders the army from reaching the people and before them... 
 
 ## The Sea Parts
@@ -96,24 +98,31 @@ Moses outstretches his Staff and The Sea parts way. Wall of water standing to le
 Moses now knows who he is. He is a prophet of God. The leader who is responsible to give them God's law. And as he brings the 10 commandments, he was about to speak and what the heck the people are now worshiping a calf idol, what ....(well the movie ends before that lol)
 
 ## Reflection
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="{{ site.baseurl }}/images/Prince-Of-Egypt/beforeSheep.png" alt="Moses before Sheep" width="50%">
+  <img src="{{ site.baseurl }}/images/Prince-Of-Egypt/beforePeople.png" alt="Moses before Israel" width="50%">
+</div>
 A throw back to Moses standing before his Sheep and The Israelites. It was quite similar. See God was preparing him for greater things. 
 
 This movie brings the bible story to life portrays everything to the finest detail and makes you feel sad, angry, lost and happy as the characters did. 
 
-The animation, the statues and palaces of Egypt all made so grand and glorious, the miracle and plague scene absolutely wonderful, and the Songs. The tension inside Moses when he was trying to find himself, the conflict between Moses and Ramezees feeling so real (at times I felt sad for Ramezees he was trying to not be a weak link), the songs Deliver Us and Through Heaven's Eyes (This one won an oscar) and just the overall beauty of the scenes when all these things are brought together does make you say This movie is a masterpiece. 
+The animation, the statues and palaces of Egypt all made so grand and glorious, the miracle and plague scene absolutely wonderful, and the Songs. The tension inside Moses when he was trying to find himself, the conflict between Moses and Ramses feeling so real (at times I felt sad for Ramses he was trying to not be a weak link), the songs Deliver Us and Through Heaven's Eyes (This one won an oscar) and just the overall beauty of the scenes when all these things are brought together does make you say This movie is a masterpiece. 
 
 The crazy part is this movie is older than me. It was made in 1998. Watch its history here. Its pretty interesting. 
 
 ## Lessons 
-What I have learnt from this amazing movie can be summed up as the following:- 
-- Feeling lost is not bad, the wandering in desert will make you find God and discover what He says you are. God promised to talk to Israel by taking her to the desert.  Lowly places are not bad places. They are the means for preparing you for great work. 
+Some of the things I took away after watching this movie were.
+- Feeling lost is not that bad, the wandering in the desert will make you find God and discover what He says you are. God promised to talk to Israel by taking her to the desert.Hosea 2:14.  Lowly places can actually be a good place. They are the means for preparing you for great work. 
+
 - Don't try define yourself except through God's definition of yourself. In Jethro's words Look Through Heaven's Eyes to you or situations.
+
 - Obey God. Don't try to pick a fight with Him. Don't oppose Him. You won't win. 
 - Ferenjoch lela tarik wuste nachew. Bro they made this in 1998. I can't help but compare my country to them and be disappointed. Please we need to create masterpieces like this. At least try to get at a level that is better than where we are now.(this one is more of an observation) 
 
 ## Prologue
-If you haven't watched the whole thing what are you doing here? Go watch it. And if you have, savor the story of Moses with this brilliant song by Jimmy Clifton called you guessed it Moses. 
+If you haven't watched the whole thing what are you doing here? Go watch it. And if you have, savor the story of Moses with this lovely song by Jimmy Clifton called you guessed it Moses. 
 
-I have and am still watching edits on YouTube. They are pretty cool honestly.Am a bit obsessed with it and this blog is more of just putting these links in one place so I can turn back and appreciate it in the future. Thanks for reading. 
+I have and am still watching edits on YouTube. They are pretty cool honestly.This blog is putting these links in one place so turn back and appreciate it in the future. Thanks for reading. 
 
 See you on the next one.
