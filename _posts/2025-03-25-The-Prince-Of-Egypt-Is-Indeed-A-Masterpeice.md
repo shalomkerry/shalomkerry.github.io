@@ -1,9 +1,13 @@
-<iframe width="700" height="315" src="https://www.youtube.com/embed/fQhcOJHTdb4?si=xRinrhLqEu7_Xo4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+![(Moses comes to know). ]({{site.baseurl}}/images/Prince-Of-Egypt/moses.png)
 
 We all know the story of Moses, the boy who was meant to be killed by the order of a tyrant king, Pharaoh. Fearing that the growing population of the Israelites would one day outnumber and overpower his people, Pharaoh sought to control them—keeping the men as laborers and ordering the killing of the new generation. 
 
 Moses hidden by his Mother for 3 month. The bible actually says she hid him because she found Moses beautifull. When she can no longer hid him she gives him up to fate than see him be killed by the Egyptians. By chance the river leads him to Pharoah's daughter who welcomes this baby brought to her while she bathed.They changed some of the things from the bible narration.The movie starts with such a beautiful and emotional scene of People Suffering and then Moses's Mother Jochebed's scene. 
 
+
+<iframe width="700" height="315" src="https://www.youtube.com/embed/fQhcOJHTdb4?si=xRinrhLqEu7_Xo4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 He not only survived the death that took many others but he got to feed on his mothers breast and grew in a palace considered as a prince. 
@@ -11,7 +15,7 @@ He not only survived the death that took many others but he got to feed on his m
 ## Moses comes to know
 The bible doesn't have an account on how he got to know his origins.The movie shows this very beautifully.
 
-![(Ramses son dies). ]({{site.baseurl}}/images/Prince-Of-Egypt/origin.png)
+![(Moses comes to know). ]({{site.baseurl}}/images/Prince-Of-Egypt/origin.png)
 
 He understands he isn't actually a prince of Egypt. The suffering of the people he used to despise now brought him pain. He kills a soldier who was mistreating a hebrew person. 
 
@@ -77,11 +81,12 @@ This is an also a really great scene. The plague scene shows the tension between
 ## The Death of Pharaos Son
 Sadly Pharao doesn't give in till the last plague. And it came at a great loss.
 
-![(Ramses son dies). ]({{site.baseurl}}/images/Prince-Of-Egypt/origin.png)
+![(Ramses son dies). ]({{site.baseurl}}/images/Prince-Of-Egypt/death.png)
 
+## Exodus 
 The people after years of slavery are finally free. Jubille. Joy. Freedom.
 
-## The Sea, Israel, Pharao's Army 
+## The Sea, Israel and Pharao's Army 
 It didn't Last Long. Well now they are going to die. The Read Sea before them Pharaoh's furious army behind them they were doomed to death.
 
 No God wasn't going to let them die like that. He was going to show his outstretched arm and deliver them from this Army. A Fire hinders the army from reaching the people and before them... 
