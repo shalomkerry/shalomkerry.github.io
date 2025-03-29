@@ -1,7 +1,5 @@
 <iframe width="660" height="315" src="https://www.youtube.com/embed/fQhcOJHTdb4?si=xRinrhLqEu7_Xo4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-> Now it came about in the course of those many days that the king of Egypt died. And the sons of Israel groaned because of the bondage, and they cried out; and their cry for help because of their bondage ascended to God. 24 So God heard their groaning; and God remembered His covenant with Abraham, Isaac, and Jacob. 25 And God saw the sons of Israel, and God took notice of them. Exodus 2:23
-
 We all know the story of Moses, the boy who was meant to be killed by the order of a tyrant king, Pharaoh. Fearing that the growing population of the Israelites would one day outnumber and overpower his people, Pharaoh sought to control them—keeping the men as laborers and ordering the killing of the new generation. 
 
 Moses hidden by his Mother for 3 month. The bible actually says she hid him because she found Moses beautifull. When she can no longer hid him she gives him up to fate than see him be killed by the Egyptians. By chance the river leads him to Pharoah's daughter who welcomes this baby brought to her while she bathed.They changed some of the things from the bible narration.The movie starts with such a beautiful and emotional scene of People Suffering and then Moses's Mother Jochebed's scene. 
@@ -25,8 +23,10 @@ When Pharaoh heard about this matter, he tried to kill Moses. They didn't show t
 </video>
 If any one was under identity crisis it was Moses. He fleds. Who was he actually? Why was he fortunate to not die? Why did he kill a soldier? Isn't his alliegnece to Egypt? Why did he try to protect that Hebrew person?  I think he thought of all of these questions and more in his wandering in the desert. He might have been in an existential crisis. He was lost because he just lost the place he considered to be his home but he never belonged there... He slowly accepts that he was never an Egyptian but who was he? Who should he become? 
 
-But Moses fled from the presence of Pharaoh and [s]settled in the land of Midian, and he sat down by a well. Exodus 2:15b
+>But Moses fled from the presence of Pharaoh and [s]settled in the land of Midian, and he sat down by a well. Exodus 2:15b
+
 ## Look Through Heaven's Eye
+
 By chance he finds himself a desert people called Medianites who accepted him. He gets along with an old Wise Man the Priest of the Midianties called:- Jethro. 
 He teaches him with wise teachings. Not to understand his identity through what people say of him not even what he thought of himself but through Heaven's Eye. 
 He shows him how to be a man. How to lead sheep, to protect and guide each one. His time as a shepherd prepares him to what he is going to be next. Its like his training ground. 
@@ -39,17 +39,22 @@ Moses and Jethro get along so well Jethro gives him his daughter Zipporah in mar
 <iframe width="660" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=kgnJkgXimXiEPkXT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Moses Meets God
-And then he meets God. (This is absolutely a wonderful scene.)
+He was living a very normal life, settled down, has a wife, nice job, his former life didn't bother him he was just chilling and then he meets God. 
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=CojKklvbuaizb7za" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+This is absolutely a wonderful scene.
+
 He was chosen by I AM. The God of his ancestors. God commissions him to be his messenger to tell Pharaos 'To let His People Go'. 
 
+> Now it came about in the course of those many days that the king of Egypt died. And the sons of Israel groaned because of the bondage, and they cried out; and their cry for help because of their bondage ascended to God. 24 So God heard their groaning; and God remembered His covenant with Abraham, Isaac, and Jacob. 25 And God saw the sons of Israel, and God took notice of them. Exodus 2:23
+
+## A commission of a life time
 Moses now understands he is a prophet. A prophet of I AM. He knows his purpose, it all made sense now, God got him here and he didn't die then because of this. God wanted a prophet to free his people. 
 
-SO he goes and confronts Ramezzes. Pharao is not willing to let them go. 
+So he goes and confronts Ramezzes. Pharao is not willing to let them go. 
 
-So Horrible Plagues happen. 10 in total.
 ## The Plagues
 <iframe width="660" height="315" src="https://www.youtube.com/embed/GJleW4TCQM0?si=c4gpG40b65epWwpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 This is an also a really great scene. The plague scene shows the tension between these Moses and Rameezes. In order the plagues were:- Water turned to blood, frogs, lice, flies, pestilence on Livestock, boils, hail, locusts, darkness and Death of the Firstborn. 
@@ -92,8 +97,6 @@ What I have learnt from this amazing movie can be summed up as the following:-
 ## Prologue
 If you haven't watched the whole thing what are you doing here? Go watch it. And if you have, savor the story of Moses with this brilliant song by Jimmy Clifton called you guessed it Moses. 
 
-I have and am still watching edits on YouTube. They are pretty cool honestly.Some of the ones that I loved I linked them down below. Am a bit obsessed with it and this blog is more of just putting these links in one place so I can turn back and appreciate it in the future. Thanks for reading. 
-
-
+I have and am still watching edits on YouTube. They are pretty cool honestly.Am a bit obsessed with it and this blog is more of just putting these links in one place so I can turn back and appreciate it in the future. Thanks for reading. 
 
 See you on the next one.
