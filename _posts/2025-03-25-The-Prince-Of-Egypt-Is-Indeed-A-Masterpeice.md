@@ -54,10 +54,7 @@ The answer will come to him who tries
 To look at his life through Heaven's eyes
 
 ## Moses Meets God
-
-> Now it came about in the course of those many days that the king of Egypt died. And the sons of Israel groaned because of the bondage, and they cried out; and their cry for help because of their bondage ascended to God. 24 So God heard their groaning; and God remembered His covenant with Abraham, Isaac, and Jacob. 25 And God saw the sons of Israel, and God took notice of them. Exodus 2:23
-
-He was living a very normal life, settled down, has a wife, nice job, his past didn't bother him he was just chilling and then he meets God.  
+He was living a very normal life, settled down, has a wife, nice job, his past didn't bother him he was just chilling and then he meets God. 
 
 <iframe width="700" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=CojKklvbuaizb7za" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -65,6 +62,8 @@ This is absolutely a wonderful scene.
 
 He was chosen by I AM. The God of his ancestors.His story just got a bit interesting. 
 God commissions him to be his messenger to tell Pharaoh 'To let His People Go'. 
+
+> Now it came about in the course of those many days that the king of Egypt died. And the sons of Israel groaned because of the bondage, and they cried out; and their cry for help because of their bondage ascended to God. 24 So God heard their groaning; and God remembered His covenant with Abraham, Isaac, and Jacob. 25 And God saw the sons of Israel, and God took notice of them. Exodus 2:23
 
 ## A commission of a life time
 Moses now understands he is a prophet. A prophet of I AM. He knows his purpose, it all made sense now, God got him here and he didn't die then because of this. God wanted a prophet to free his people. 
@@ -108,9 +107,7 @@ A throw back to Moses standing before his Sheep and The Israelites. It was quite
 
 This movie brings the bible story to life portrays everything to the finest detail and makes you feel sad, angry, lost and happy as the characters did. 
 
-The animation, the statues and palaces of Egypt all made so grand and glorious, the miracle and plague scene absolutely wonderful, and the Songs. Em so good. 
-
- The grief of the Israelites, the conflict between Moses and Ramses felt so so real (at times I felt sad for Ramses as well he was trying to not be a weak link), the songs Deliver Us and Through Heaven's Eyes (This one won an oscar) and just the overall beauty of the scenes when all these things are brought together, it does make you say This movie is a masterpiece. 
+The animation, the statues and palaces of Egypt all made so grand and glorious, the miracle and plague scene absolutely wonderful, and the Songs. The tension inside Moses when he was trying to find himself, the conflict between Moses and Ramses feeling so real (at times I felt sad for Ramses he was trying to not be a weak link), the songs Deliver Us and Through Heaven's Eyes (This one won an oscar) and just the overall beauty of the scenes when all these things are brought together does make you say This movie is a masterpiece. 
 
 The crazy part is this movie is older than me. It was made in 1998. Watch its history here. Its pretty interesting. 
 
@@ -126,6 +123,6 @@ Some of the things I took away after watching this movie were.
 ## Prologue
 If you haven't watched the whole thing what are you doing here? Go watch it. And if you have, savor the story of Moses with this lovely song by Jimmy Clifton called you guessed it Moses. 
 
-I have and am still watching edits on YouTube. They are pretty cool honestly.This blog is putting these links in one place so I can turn back and appreciate it in the future. Thanks for reading. 
+I have and am still watching edits on YouTube. They are pretty cool honestly.This blog is putting these links in one place so turn back and appreciate it in the future. Thanks for reading. 
 
 See you on the next one.
