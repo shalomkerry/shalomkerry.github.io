@@ -36,9 +36,20 @@ He shows him how to be a man. How to lead sheep, to protect and guide each one. 
 
 Moses and Jethro get along so well Jethro gives him his daughter Zipporah in marriage.
 
-![(Zipporah looking at Moses so weirdly). ]({{site.baseurl}}/images/Prince-Of-Egypt/married.png)
-
 <iframe width="700" height="315" src="https://www.youtube.com/embed/a-VRh8oshjs?si=nnzT1a-rA8uVZ0IP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This song also hits. Listen to it when you feel you run low on self-esteem. 
+
+>If a man lose ev'rything he owns
+Has he truly lost his worth?
+Or is it the beginning
+Of a new and brighter birth?
+So how do you measure the worth of a man?
+In wealth or strength or size?
+In how much he gained or how much he gave?
+The answer will come
+The answer will come to him who tries
+To look at his life through Heaven's eyes
 
 ## Moses Meets God
 He was living a very normal life, settled down, has a wife, nice job, his past didn't bother him he was just chilling and then he meets God. 
