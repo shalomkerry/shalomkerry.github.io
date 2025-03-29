@@ -1,26 +1,28 @@
-Now it came about in the course of those many days that the king of Egypt died. And the sons of Israel groaned because of the bondage, and they cried out; and their cry for help because of their bondage ascended to God. 24 So God heard their groaning; and God remembered His covenant with Abraham, Isaac, and Jacob. 25 And God saw the sons of Israel, and God took notice of them. Exodus 2:23
-## Deliver US
+<iframe width="660" height="315" src="https://www.youtube.com/embed/fQhcOJHTdb4?si=xRinrhLqEu7_Xo4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+> Now it came about in the course of those many days that the king of Egypt died. And the sons of Israel groaned because of the bondage, and they cried out; and their cry for help because of their bondage ascended to God. 24 So God heard their groaning; and God remembered His covenant with Abraham, Isaac, and Jacob. 25 And God saw the sons of Israel, and God took notice of them. Exodus 2:23
 
 We all know the story of Moses, the boy who was meant to be killed by the order of a tyrant king, Pharaoh. Fearing that the growing population of the Israelites would one day outnumber and overpower his people, Pharaoh sought to control them—keeping the men as laborers and ordering the killing of the new generation. 
 
-Moses hidden by his Mother for 3 month. The bible actually says she hid him because she found Moses beautifull. When she couldn't no longer hide him. When she can no longer hid him she gives him up to fate than see him be killed by the Egyptians. By chance the river leads him to Pharoah's daughter who welcomes this baby brought to her while she bathed.(They changed some of the things from the bible narration.The movie starts with such a beautiful and emotional scene of People Suffering and Moses's Mother scene.-Her name is not mentioned in the bible)
-## Moses Mom (Now a man from the house of Levi went and [a]married a daughter of Levi. 2 And the woman conceived and gave birth to a son; and when she saw [b]that he was [c]beautiful, she hid him for three months. 3 But when she could no longer hide him, she got him a papyrus [d]basket and covered it with tar and pitch. Then she put the child in it and set it among the reeds by the bank of the Nile. 4 And his sister stood at a distance to [e]find out what would [f]happen to him.)
+Moses hidden by his Mother for 3 month. The bible actually says she hid him because she found Moses beautifull. When she can no longer hid him she gives him up to fate than see him be killed by the Egyptians. By chance the river leads him to Pharoah's daughter who welcomes this baby brought to her while she bathed.They changed some of the things from the bible narration.The movie starts with such a beautiful and emotional scene of People Suffering and then Moses's Mother Jochebed's scene. 
 
 
-He not only survived the death that took other boys but he got to feed on his mothers breast plus he grew in a palace considered as a prince. 
 
- The bible doesn't have an account on how he got to know his origins. The movie continues to portray it  beautifully yet again. He understands he isn't actually a prince of Egypt. He was one who was lucky to miss death. He feels discomfort with the ill treatement of the hebrew people. 
+He not only survived the death that took many others but he got to feed on his mothers breast and grew in a palace considered as a prince. 
+
+The bible doesn't have an account on how he got to know his origins.The movie shows that very beautifully.
+
+He understands he isn't actually a prince of Egypt. He was one who was lucky to miss death. He feels discomfort with the ill treatement of the hebrew people. 
  ## Moses crying
 
 
 He kills a soldier who was mistreating a hebrew person. 
 
-When Pharaoh heard about this matter, he tried to kill Moses.(Another change in the movie) But Moses fled from the presence of Pharaoh and settled in the land of Midian, and he sat down by a well.
+When Pharaoh heard about this matter, he tried to kill Moses. They didn't show this part in the movie but  Moses still fleds. 
 ## Moses Flee Exile
 
 
-If any one was under identity crisis it was Moses. He fleds. Who was he actually? Why was he fortunate to not die? Why did he kill a soldier? Isn't his alliegnece to Egypt? Why did he try to protect that Hebrew person?  I think he thought of all of these questions and more in his wandering in the desert. He might have been in an existential crisis. He was lost becuase he just lost the place he considered to be his home but he never belonged there... Who was he actually and where will his journey lead him?  
+If any one was under identity crisis it was Moses. He fleds. Who was he actually? Why was he fortunate to not die? Why did he kill a soldier? Isn't his alliegnece to Egypt? Why did he try to protect that Hebrew person?  I think he thought of all of these questions and more in his wandering in the desert. He might have been in an existential crisis. He was lost because he just lost the place he considered to be his home but he never belonged there... He slowly accepts that he was never an Egyptian but who was he? Who should he become? 
 
 But Moses fled from the presence of Pharaoh and [s]settled in the land of Midian, and he sat down by a well. Exodus 2:15b
 ## Look Through Heaven's Eye
@@ -33,7 +35,7 @@ Moses and Jethro get along so well Jethro gives him his daughter Zipporah in mar
 ## Zipporah looking at Moses so weirdly
 (Zipporah and Moses, If a lady looks at you like this this is the ultimate sign she likes you)
 
-## Moses Meets God
+<iframe width="660" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=kgnJkgXimXiEPkXT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 And then he meets God. (This is absolutely a wonderful scene.)
 
 He was chosen by I AM. The God of his ancestors. God commissions him to be his messenger to tell Pharao 'To let His People Go'. 
