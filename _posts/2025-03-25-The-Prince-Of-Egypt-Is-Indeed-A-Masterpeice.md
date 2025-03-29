@@ -54,7 +54,10 @@ The answer will come to him who tries
 To look at his life through Heaven's eyes
 
 ## Moses Meets God
-He was living a very normal life, settled down, has a wife, nice job, his past didn't bother him he was just chilling and then he meets God. 
+
+> Now it came about in the course of those many days that the king of Egypt died. And the sons of Israel groaned because of the bondage, and they cried out; and their cry for help because of their bondage ascended to God. 24 So God heard their groaning; and God remembered His covenant with Abraham, Isaac, and Jacob. 25 And God saw the sons of Israel, and God took notice of them. Exodus 2:23
+
+He was living a very normal life, settled down, has a wife, nice job, his past didn't bother him he was just chilling and then he meets God.  
 
 <iframe width="700" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=CojKklvbuaizb7za" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -62,8 +65,6 @@ This is absolutely a wonderful scene.
 
 He was chosen by I AM. The God of his ancestors.His story just got a bit interesting. 
 God commissions him to be his messenger to tell Pharaoh 'To let His People Go'. 
-
-> Now it came about in the course of those many days that the king of Egypt died. And the sons of Israel groaned because of the bondage, and they cried out; and their cry for help because of their bondage ascended to God. 24 So God heard their groaning; and God remembered His covenant with Abraham, Isaac, and Jacob. 25 And God saw the sons of Israel, and God took notice of them. Exodus 2:23
 
 ## A commission of a life time
 Moses now understands he is a prophet. A prophet of I AM. He knows his purpose, it all made sense now, God got him here and he didn't die then because of this. God wanted a prophet to free his people. 
