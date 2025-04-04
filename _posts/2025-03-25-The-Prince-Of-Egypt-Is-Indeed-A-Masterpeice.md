@@ -127,11 +127,12 @@ The crazy part is this movie is older than me. It was made in 1998. Watch its hi
 
 ## Lessons 
 Some of the things I took away after watching this movie were.
-- Feeling lost is not so bad; wandering in the desert will lead you to find God and discover who He says you are. God promised to talk to Israel by taking her to the desert. [Hosea 2:14](https://www.biblegateway.com/passage/?search=Hosea%202%3A14&version=NIV).  Lowly places can actually be a good place. They are the means for preparing you for great work. 
+- Feeling lost is not so bad; wandering in the desert will lead you to find God and discover who He says you are. God promised to talk to Israel by taking her to the desert. [Hosea 2:14](https://www.biblegateway.com/passage/?search=Hosea%202%3A14&version=NIV).  Lowly places can actually be beneficial— they serve as a means of preparing you for great work.
 
-- Don't try define yourself except through God's definition of yourself. In Jethro's words Look Through Heaven's Eyes to you or situations.
+- Don't try to define yourself apart from God's definition of you. As Jethro's words remind us, look at yourself and your situation through Heaven's eyes.
 
-- Obey God. Don't try to pick a fight with Him. Don't oppose Him. You won't win. 
+- Obey God. Don't fight against Him or oppose Him—you won't win
+
 - Ferenjoch lela tarik wuste nachew. Bro they made this in 1998. I can't help but compare my country to them and be disappointed. Please we need to create masterpieces like this. At least try to get at a level that is better than where we are now.(this one is more of an observation) 
 
 ## Prologue
