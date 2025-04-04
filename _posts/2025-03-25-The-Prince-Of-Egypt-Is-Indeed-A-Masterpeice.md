@@ -62,8 +62,9 @@ He was living a very normal life, settled down, has a wife, nice job, his past d
 
 <iframe width="700" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=CojKklvbuaizb7za" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This is absolutely a wonderful scene.
+This is absolutely a wonderful scene. Beautiful.  
 
+![(Moses was getting taken care of). ]({{site.baseurl}}/images/Prince-Of-Egypt/comment.png)
 He was chosen by I AM. The God of his ancestors.His story just got a bit interesting. 
 God commissions him to be his messenger to tell Pharaoh 'To let His People Go'. 
 
