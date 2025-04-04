@@ -138,6 +138,6 @@ Some of the things I took away after watching this movie were.
 ## Prologue
 If you haven't watched the whole thing what are you doing here? Go watch it. And if you have, savor the story of Moses with this lovely song by Jimmy Clifton called you guessed it [Moses](https://open.spotify.com/track/2UIi44SfmT8emSkUu9cCAs?si=cf37bd38eb6546ff). 
 
-I have and am still watching edits on YouTube. They are pretty cool honestly.This blog is putting these links in one place so I can turn back and appreciate it in the future. Thanks for reading. 
+I have and am still watching edits on YouTube. They are pretty cool honestly.This blog is putting [these](https://youtu.be/BOlJbQ8IOM8?si=aGFYYi-2DmrSx6YF) [links](https://youtu.be/PL7bgz1od18?si=Ap_Z7ATWQJdKerEY) in [one](https://youtu.be/AOhIg9lmmy8?si=B2__gh5Y1nwNzfrP) [place](https://www.youtube.com/shorts/ieiza2u9jn8) so I can turn back and appreciate it in the future. Thanks for reading. 
 
 See you on the next one.
