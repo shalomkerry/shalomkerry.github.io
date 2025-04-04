@@ -123,7 +123,7 @@ This movie brings the bible story to life portrays everything to the finest deta
 
 The animation, the statues and palaces of Egypt all made so grand and glorious, the miracle and plague scene absolutely wonderful, and the Songs. The tension inside Moses when he was trying to find himself, the conflict between Moses and Ramses feeling so real (at times I felt sad for Ramses he was trying to not be a weak link), the songs Deliver Us and Through Heaven's Eyes (This one won an oscar) and just the overall beauty of the scenes when all these things are brought together does make you say This movie is a masterpiece. 
 
-The crazy part is this movie is older than me. It was made in 1998. Watch its history here. Its pretty interesting. 
+The crazy part is this movie is older than me. It was made in 1998. Watch its history [here](https://youtu.be/f9viECfnTI0?si=--0JlDQrUA2W_wtL). Its pretty interesting. 
 
 ## Lessons 
 Some of the things I took away after watching this movie were.
