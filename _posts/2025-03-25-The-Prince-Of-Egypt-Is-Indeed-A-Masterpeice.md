@@ -4,7 +4,7 @@
 
 We all know the story of Moses, the boy who was meant to be killed by the order of a tyrant king, Pharaoh. Fearing that the growing population of the Israelites would one day outnumber and overpower his people, Pharaoh sought to control them—keeping the men as laborers and ordering the killing of the new generation. 
 
-Moses hidden by his Mother for 3 month. The bible actually says she hid him because she found Moses beautifull. When she can no longer hid him she gives him up to fate than see him be killed by the Egyptians. By chance the river leads him to Pharoah's daughter who welcomes this baby brought to her while she bathed.They changed some of the things from the bible narration.The movie starts with such a beautiful and emotional scene of People Suffering and then Moses's Mother Jochebed's scene. 
+He was hidden by his Mother for 3 months,the bible actually says she hid him because she found him beautifull. When she can no longer hid him she gives him up to fate than see him be killed by the Egyptians. By chance the river leads him to Pharoah's daughter who welcomes this baby brought to her while she bathed.They changed some of the things from the bible narration.The movie starts with such a beautiful and emotional scene of The People Suffering and then Moses's Mother Jochebed's scene. 
 
 
 <iframe width="700" height="315" src="https://www.youtube.com/embed/fQhcOJHTdb4?si=xRinrhLqEu7_Xo4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -13,40 +13,26 @@ Moses hidden by his Mother for 3 month. The bible actually says she hid him beca
 He not only survived the death that took many others but he got to feed on his mothers breast and grew in a palace considered as a prince. 
 
 ## Moses comes to know
-The bible doesn't have an account on how he got to know his origins.The movie shows this very beautifully.
+The bible doesn't have an account on how he got to know his origins.
 
 ![(Moses comes to know). ]({{site.baseurl}}/images/Prince-Of-Egypt/origin.png)
+The movie shows this very beautifully.
 
-He understands he isn't actually a prince of Egypt. The suffering of the people he used to despise now brought him pain. He kills a soldier who was mistreating a hebrew person. 
+He understands he isn't actually a prince of Egypt. The suffering of the people he used to despise now brought him pain. He kills a soldier who was beating a hebrew person. 
 
 When Pharaoh heard about this matter, he tried to kill Moses. They didn't show this part in the movie but out of guilt and fear Moses fled. 
 
-## Moses Exile
+## Moses' Exile
 
 <video width="700" height="360" controls>
   <source src="{{ site.baseurl }}/images/Prince-Of-Egypt/Moses flees.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-If any one was under identity crisis it was Moses. He fleds. Who was he actually? Why was he fortunate to not die? Why did he kill a soldier? Isn't his alliegnece to Egypt? Why did he try to protect that Hebrew person?  I think he thought of all of these questions and more in his wandering in the desert. He might have been in an existential crisis. He was lost because he just lost the place he considered to be his home but he never belonged there... He slowly accepts that he was never an Egyptian but who was he? Who should he become? 
+If any one was under identity crisis it was Moses. He fleds. Who was he actually? Why was he fortunate to not die all those years ago? Why did he kill the Egyptian? Isn't his alliegnece to Egypt? Why did he try to protect that Hebrew person?  I think he thought of all of these questions and more in his wandering in the desert. He might have been in an existential crisis. He was lost. The place he considered to be his home is not his anymore and still he never belonged there. Who was he then? What was he here?
 
 >But Moses fled from the presence of Pharaoh and settled in the land of Midian, and he sat down by a well. Exodus 2:15b
 
-## Look Through Heaven's Eye
-
-By chance he finds himself a desert people called Medianites who accepted him. He gets along with an old Wise Man the Priest of the Midianties called:- Jethro. 
-He teaches him with wise teachings. Not to understand his identity through what people say of him not even what he thought of himself but through Heaven's Eye. 
-He shows him how to be a man. How to lead sheep, to protect and guide each one. His time as a shepherd prepares him to what he is going to be next. Its like his training ground. 
-
-![(Zipporah looking at Moses so weirdly). ]({{site.baseurl}}/images/Prince-Of-Egypt/zipporah.png)
-(Zipporah and Moses, If a lady looks at you like this this is the ultimate sign she likes you)
-
-Moses and Jethro get along so well Jethro gives him his daughter Zipporah in marriage.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a-VRh8oshjs?si=AkmqjYpbxh2i8BWC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-This song hits. Listen to it when you feel you run low on self-esteem. 
-
->If a man lose ev'rything he owns
+> If a man lose ev'rything he owns
 Has he truly lost his worth?
 Or is it the beginning
 Of a new and brighter birth?
@@ -55,10 +41,31 @@ In wealth or strength or size?
 In how much he gained or how much he gave?
 The answer will come
 The answer will come to him who tries
+## Look Through Heaven's Eye
+
+By chance he finds himself a desert people called Medianites who accepted him. He gets along with an old Wise Man the Priest of the Midianties called:- Jethro. 
+
 To look at his life through Heaven's eyes
+He teaches him wise things. He taught him not to understand his identity through what people say of him not even what he thought of himself but through Heaven's Eye.
+
+> to one lost sheep a shepherd boy is greater than the richest king
+
+He stay there shows him how to be a leader, how to lead sheep humbling beginning but it was an important task, to protect and guide each one.
+
+His time as a shepherd prepares him to what he is going to be next. It was like his training ground. 
+
+![(Zipporah looking at Moses so weirdly). ]({{site.baseurl}}/images/Prince-Of-Egypt/zipporah.png)
+(Zipporah and Moses, If a lady looks at you like this this is the ultimate sign she likes you)
+
+Moses and Jethro get along so well Jethro gives him his daughter Zipporah in marriage.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a-VRh8oshjs?si=AkmqjYpbxh2i8BWC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Listen to this song when you run low on self-esteem. It will remind you to see yourself in the right way. 
+
 
 ## Moses Meets God
-He was living a very normal life, settled down, has a wife, nice job, his past didn't bother him he was just chilling and then he meets God. 
+He was living a very normal life, settled down, has a wife, nice job, his past didn't bother anymore. He was just chilling and then he meets God. 
 
 <iframe width="700" height="315" src="https://www.youtube.com/embed/6ds9y3lJGig?si=CojKklvbuaizb7za" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -77,7 +84,8 @@ So he goes and confronts Ramses. Pharaoh is not willing to let them go.
 
 ## The Plagues
 <iframe width="700" height="315" src="https://www.youtube.com/embed/GJleW4TCQM0?si=c4gpG40b65epWwpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-This is an also a really great scene. The plague scene shows the tension between Moses and Ramses. In order the plagues were:- Water turned to blood, frogs, lice, flies, pestilence on Livestock, boils, hail, locusts, darkness and Death of the Firstborn. 
+This is a really great scene. The plague scene shows the tension between Moses and Ramses. 
+In order the plagues were:- Water turned to blood, frogs, lice, flies, pestilence on Livestock, boils, hail, locusts, darkness and Death of the Firstborn. 
 
 ## The Death of Pharaos Son
 Sadly Pharao doesn't give in till the last plague. And it came at a great loss.
@@ -129,6 +137,6 @@ Some of the things I took away after watching this movie were.
 ## Prologue
 If you haven't watched the whole thing what are you doing here? Go watch it. And if you have, savor the story of Moses with this lovely song by Jimmy Clifton called you guessed it Moses. 
 
-I have and am still watching edits on YouTube. They are pretty cool honestly.This blog is putting these links in one place so turn back and appreciate it in the future. Thanks for reading. 
+I have and am still watching edits on YouTube. They are pretty cool honestly.This blog is putting these links in one place so I can turn back and appreciate it in the future. Thanks for reading. 
 
 See you on the next one.
