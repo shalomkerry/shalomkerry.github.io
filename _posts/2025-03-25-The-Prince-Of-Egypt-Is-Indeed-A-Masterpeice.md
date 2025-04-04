@@ -129,7 +129,7 @@ The crazy part is this movie is older than me. It was made in 1998. Watch its hi
 Some of the things I took away after watching this movie were.
 - Feeling lost is not so bad; wandering in the desert will lead you to find God and discover who He says you are. God promised to talk to Israel by taking her to the desert. [Hosea 2:14](https://www.biblegateway.com/passage/?search=Hosea%202%3A14&version=NIV).  Lowly places can actually be beneficial— they serve as a means of preparing you for great work.
 
-- Don't try to define yourself apart from God's definition of you. As Jethro's words remind us, look at yourself and your situation through Heaven's eyes.
+- Don't try to define yourself apart from God's definition of you. Like Jethro said, look at yourself and your situation through Heaven's eyes.
 
 - Obey God. Don't fight against Him or oppose Him—you won't win
 
